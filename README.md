@@ -6,7 +6,7 @@
 
 ## Description
 
-We will focuse on studying sickle cell disease and how affects humans and possibly how to help them to control the symptoms and complications.
+We will focus on studying sickle cell disease and how affects humans and possibly how to help them to control the symptoms and complications.
 
 ## Repository Structure
 
