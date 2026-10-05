@@ -10,9 +10,9 @@ We will focuse on studying sickle cell disease and how affects humans and possib
 
 ## Repository Structure
 
-- `report.md` → documento principal del trabajo
-- `figures/` → imágenes y gráficos
-- `README.md` → información sobre el repositorio
+- `report.md` → main report document
+- `figures/` → images and plots
+- `README.md` → information about the repository
 
 ## How to Read This Report
 
