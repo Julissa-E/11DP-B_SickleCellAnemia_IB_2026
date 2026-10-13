@@ -2,7 +2,7 @@
 
 **Course:** Introduction to Bioinformatics - UPC - 2026-2027  
 **Group:** 11DP-B  
-**Authors:** Julissa E., Miona, Uma, Sara, Martina
+**Authors:** Julissa E., Maria Dolça, Uma, Sara, Martina
 
 ## Description
 
