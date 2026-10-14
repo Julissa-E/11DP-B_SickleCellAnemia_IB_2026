@@ -1,4 +1,4 @@
-### Task tracking made-up example - Updated up to 07.10
+### Task tracking 
 
 | Task | Resp. | Plan. Start Date | Plan. Finish Date | Real Start Date | Real Finish Date | Status | Notes |
 | :--- | :--- | :---: | :---: | :---: | :---: | :---: | :--- |
