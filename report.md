@@ -1,4 +1,4 @@
-# [Manuscript Title: A Concise and Descriptive Title]
+# Sickle Cell Anemia: A Bioinformatics study
 
 **Authors:** [Author 1], [Author 2], [Author 3]  
 **Affiliation:** [Department, Institution, City, Country]  
