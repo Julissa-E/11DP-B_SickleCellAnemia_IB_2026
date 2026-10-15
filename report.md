@@ -26,6 +26,59 @@ First, we compared the wild-type coding DNA sequence (WT CDS) with the protein s
 After confirming this information, we compared the wild-type coding DNA sequence (WT CDS) with the mutated coding DNA sequence (mutant CDS). We verified that the mutant CDS corresponded to the same gene as the WT CDS, since both shared the same gene name and were located on the same chromosome. However, differences were observed in their sequence alignment results. The mutant CDS showed 100% coverage, an E-value of 0.0, and 99.55% identity, whereas the WT CDS showed 100% coverage, an E-value of 0.0, and 100% identity.
 Finally, we compared the wild-type protein sequence with the mutated protein sequence. Both sequences corresponded to the same gene, as they shared the same name and were located on the same chromosome. Nevertheless, their sequence alignment results showed some differences. The mutant protein sequence had 100% coverage, an E-value of 5e-102, and 99.32% identity, while the WT protein sequence had 100% coverage, an E-value of 5e-103, and 100% identity.
 
+###Lab 2
+# Wild Type (WT) CDS & Protein Sequences for HBB Homologs
+## Assigned Species: *Equus caballus*
+
+### DNA Sequence
+>NM_001164018.1 Equus caballus hemoglobin, beta (HBB), mRNA
+ATGGTGCAACTGAGTGGTGAAGAGAAGGCAGCTGTCTTGGCCCTGTGGGACAAGGTGAATGAGGAAGAAGTTGGTGGTGA
+AGCCCTGGGCAGGCTGCTGGTTGTCTACCCATGGACTCAGAGGTTCTTTGACTCCTTTGGGGATCTGTCCAATCCTGGTG
+CTGTGATGGGCAACCCCAAGGTGAAGGCCCACGGCAAGAAAGTGCTACACTCCTTTGGTGAGGGCGTGCATCATCTTGAC
+AACCTCAAGGGCACCTTTGCTGCGCTGAGTGAGCTGCACTGTGACAAGCTGCACGTGGATCCTGAGAACTTCAGGCTCCT
+GGGCAACGTGCTGGTTGTTGTGCTGGCTCGCCACTTTGGCAAGGATTTCACCCCAGAGTTGCAGGCTTCCTATCAAAAGG
+TGGTGGCTGGTGTGGCCAATGCACTGGCCCACAAATACCACTGA
+
+| Gene | Accession | Coverage | Identity | E-value |
+| --- | --- | --- | --- | --- |
+| **HBB** | `NM_001164018.1` | 70% | 87% | $2 \times 10^{-138}$ |
+
+### Protein sequence
+>NP_001157490.1 hemoglobin subunit beta [Equus caballus]
+MVQLSGEEKAAVLALWDKVNEEEVGGEALGRLLVVYPWTQRFFDSFGDLSNPGAVMGNPKVKAHGKKVLHSFGEGVHHLD
+NLKGTFAALSELHCDKLHVDPENFRLLGNVLVVVLARHFGKDFTPELQASYQKVVAGVANALAHKYH
+
+| Gene | Accession | Coverage | Identity | E-value |
+| --- | --- | --- | --- | --- |
+| **HBB** | `NP_001157490.1` | 100% | 83.67% | $7 \times 10^{-80}$ |
+
+
+
+## Other Homolog Species: *Pan Troglodytes*
+
+### DNA Sequence
+>XM_508242.5 PREDICTED: Pan troglodytes hemoglobin subunit beta (HBB), mRNA
+ATCTATTGCTTACATTTGCTTCTGACACAACTGTGTTCACTAGCAACCTCAAACAGACACCATGGTGCACCTGACTCCTG
+AGGAGAAGTCTGCCGTTACTGCCCTGTGGGGCAAGGTGAACGTGGATGAAGTTGGTGGTGAGGCCCTGGGCAGGCTGCTG
+GTGGTCTACCCTTGGACCCAGAGGTTCTTTGAGTCCTTTGGGGATCTGTCCACTCCTGATGCTGTTATGGGCAACCCTAA
+GGTGAAGGCTCATGGCAAGAAAGTGCTCGGTGCCTTTAGTGATGGCCTGGCTCACCTGGACAACCTCAAGGGCACCTTTG
+CCACACTGAGTGAGCTGCACTGTGACAAGCTGCACGTGGATCCTGAGAACTTCAGGCTCCTGGGCAACGTGCTGGTCTGT
+GTGCTGGCCCATCACTTTGGCAAAGAATTCACCCCACCAGTGCAGGCTGCCTATCAGAAAGTGGTGGCTGGTGTGGCTAA
+TGCCCTGGCCCACAAGTATCACTAAGCTCGCTTTCTTGCTGTCCAATTTCTATTAAAGGTTCCTTTGTTCCCTAAGTCCA
+ACTACTAAACTGGGGGATATTATGAAGGGCCTTGAGCATCTGGATTCTGCCTAATAAAAAACATTTATTTTCATTGCAA
+
+| Gene | Accession | Coverage | Identity | E-value |
+| --- | --- | --- | --- | --- |
+| **HBB** | `XM_508242.5` | 100% | 99.84% | 0.0 |
+
+### Protein Sequence
+>XP_508242.1 hemoglobin subunit beta [Pan troglodytes]
+MVHLTPEEKSAVTALWGKVNVDEVGGEALGRLLVVYPWTQRFFESFGDLSTPDAVMGNPKVKAHGKKVLGAFSDGLAHLD
+NLKGTFATLSELHCDKLHVDPENFRLLGNVLVCVLAHHFGKEFTPPVQAAYQKVVAGVANALAHKYH
+
+| Gene | Accession | Coverage | Identity | E-value |
+| --- | --- | --- | --- | --- |
+| **HBB** | `XP_508242.1` | 100% | 100% | $2 \times 10^{-106}$ |
 
 ### [Subheading Example 1]
 [Text for findings...]
