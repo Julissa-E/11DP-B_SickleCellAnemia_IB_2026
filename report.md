@@ -1,7 +1,7 @@
 # Sickle Cell Anemia: A Bioinformatics study
 
 **Authors:** [J.P. Espejo, M. Sarrias, S. Delcazo, M.D. Viella, U. Saltó]  
-**Affiliation:** [Department, Institution, City, Country]  
+**Affiliation:** [Introduction to Bioinformatics, UPC, Barcelona, Spain]  
 
 > **Limits & Guidelines:**
 > * Maximum limit of **7 pages** or **5000 words** (whichever is shorter).
