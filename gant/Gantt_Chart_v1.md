@@ -8,6 +8,38 @@
 * **Date:** 2026-05-10
 
 ---
+## GENERAL OBJECTIVE
+
+Analyse the genetic and molecular basis of Sickle Cell Anemia using bioinformatics tools, identifying relevant mutations and their potential effects on hemoglobin and red blood cells.
+
+## SPECIFIC OBJECTIVES
+
+1. To identify the mutation that causes sickle cell anemia.
+2. To study the effect of the mutation on hemoglobin.
+3. To understand how sickle-shaped red blood cells cause the symptoms of the disease.
+4. To use bioinformatics tools to study the gene and protein involved.
+5. To compare the human gene and protein sequences with homologous sequences from other species.
+
+## PROJECT MEMBERS
+
+- **Martina Sarrias Pradas** (*Bioinformatics Student, Universitat Politècnica de Catalunya*) — **Project Manager and Repository Lead:** Coordinates the project, deadlines and GitHub repository.
+
+- **Sara Delcazo Millan** (*Bioinformatics Student, Universitat Politècnica de Catalunya*) — **Genomics and Sequence Specialist:** Analyses DNA/protein sequences and identifies relevant mutations.
+
+- **Julissa Paola Espejo Angulo** (*Bioinformatics Student, Universitat Politècnica de Catalunya*) — **Structural Biology and Variants Lead:** Studies protein structure and the effects of mutations.
+
+- **Uma Saltó Lorca** (*Bioinformatics Student, Universitat Politècnica de Catalunya*) — **Comparative Genomics and Evolution Specialist:** Compares homologous sequences between species, including *Equus caballus*.
+
+- **Maria Dolça Viella Ribas** (*Bioinformatics Student, Universitat Politècnica de Catalunya*) — **Physiology and Scientific Editor (Quality Assurance):** Analyses the physiological effects of the disease and reviews the scientific quality of the project.
+
+## MILESTONES
+
+- **M1:** Project scope defined
+- **M2:** Sickle cell anemia research completed
+- **M3:** Protein research completed
+- **M4:** Protein structure and mutation analyzed
+- **M5:** Final report completed
+- **M6:** Project finalized
 
 ## Project Phase Breakdown & Timeline
 
