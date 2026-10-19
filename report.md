@@ -51,6 +51,12 @@ AACCTCAAGGGCACCTTTGCCACACTGAGTGAGCTGCACTGTGACAAGCTGCACGTGGATCCTGAGAACTTCAGGCTCCT
 GGGCAACGTGCTGGTCTGTGTGCTGGCCCATCACTTTGGCAAAGAATTCACCCCACCAGTGCAGGCTGCCTATCAGAAAG
 TGGTGGCTGGTGTGGCTAATGCCCTGGCCCACAAGTATCACTAA
 
+| Variant | Coverage | Identity | E-value |
+| --- | --- | --- | --- |
+| WTF | 100% | 100% | 0.0 |
+| Mutant | 100% | 99.55% | 0.0 |
+
+
 ### Protein sequence
 #### Wild type (WT) Protein
 >SCA_protein_WT
@@ -61,6 +67,24 @@ NLKGTFATLSELHCDKLHVDPENFRLLGNVLVCVLAHHFGKEFTPPVQAAYQKVVAGVANALAHKYH
 >SCA_protein_mutant
 MVHLTPVEKSAVTALWGKVNVDEVGGEALGRLLVVYPWTQRFFESFGDLSTPDAVMGNPKVKAHGKKVLGAFSDGLAHLD
 NLKGTFATLSELHCDKLHVDPENFRLLGNVLVCVLAHHFGKEFTPPVQAAYQKVVAGVANALAHKYH
+
+| Variant | Coverage | Identity | E-value |
+| --- | --- | --- | --- |
+| WTF | 100% | 100% | $5 \times 10^{-103}$ |
+| Mutant | 100% | 99.32% | $5 \times 10^{-102}$ |
+
+
+### Overview 
+
+The gene that causes sickle cell anemia and the one that codes Hemoglobin is called HBB, found on the chromosome 11 with 11p15.4 as locus. Has accession: NM_000518.5 
+The protein name is hemoglobin subunit beta (other names: Hb Monza protein, beta globin chain, hemoglobin beta subunit, hemoglobin, beta), found on gene HBB with accession NC_000011.10 / NP_000509.1 
+The protein corresponds to the gene identified and both also share the same locus on chromosome 11. The gene has 3 exons and it’s expressed principally on the:
+1. Lung
+2. Liver (fetal)
+3. Placenta
+4. Spleen (-->bazo)
+5. Heart
+6. Liver
 
 # Lab 2
 
@@ -89,7 +113,6 @@ NLKGTFAALSELHCDKLHVDPENFRLLGNVLVVVLARHFGKDFTPELQASYQKVVAGVANALAHKYH
 | Gene | Accession | Coverage | Identity | E-value |
 | --- | --- | --- | --- | --- |
 | **HBB** | `NP_001157490.1` | 100% | 83.67% | $7 \times 10^{-80}$ |
-
 
 
 ### Other Homolog Species: *Pan Troglodytes*
