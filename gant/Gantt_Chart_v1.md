@@ -73,9 +73,9 @@ Analyse the genetic and molecular basis of Sickle Cell Anemia using bioinformati
 | **4.1** | Sequence Retrieval for Human + 2 Species | PHASE THREE | Uma S | 2026-10-14 | 2026-10-14 | 2026-10-17 | 3 | 70% |
 | **4.2** | Multiple Sequence Alignment (MSA) & Conservation Analysis | PHASE THREE | Uma S | 2026-10-17 | 2026-10-17 | 2026-10-20 | 3 | 60% |
 | **4.3** | Evolutionary & Biological Implications Synthesis | PHASE THREE | Uma S | 2026-10-19 | 2026-10-19 | 2026-10-22 | 3 | 20% |
-| **5** | **WP5: BMC Manuscript Writing & Final Delivery** | **PHASE FOUR** | | 2026-10-18 | 2026-10-18 | 2026-10-28 | | |
+| **5** | **WP5: BMC Manuscript Writing & Final Delivery** | **PHASE FOUR** | | 2026-10-18 | 2026-10-18 | 2026-10-26 | | |
 | **5.1** | Main Report Drafting (.md in BMC Format) | PHASE FOUR | Maria Dolça | 2026-10-18 | 2026-10-18 | 2026-10-25 | 7 | 50% |
 | **5.2** | References PDF Compilation (references/ folder) | PHASE FOUR | All | 2026-10-20 | 2026-10-20 | 2026-10-26 | 6 | 50% |
-| **5.3** | Final Commit, Review & Submission Deadline | PHASE FOUR | All | 2026-10-26 | 2026-10-26 | 2026-10-26 | 2 | 25% |
+| **5.3** | Final Commit, Review & Submission Deadline | PHASE FOUR | All | 2026-10-26 | 2026-10-25 | 2026-10-26 | 2 | 25% |
 
 ---
