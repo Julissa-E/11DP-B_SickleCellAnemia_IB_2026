@@ -21,9 +21,14 @@
 
 ## Results
 [Present your findings. Use subheadings as needed.]
-The analysis of data sources containing nucleotide and protein sequences allowed us to identify similarities and differences between the sequences studied.
+                                          1.SEQUENCE SEARCH
+                          1.1 Identification and Characterization of HBB Gene and protein
 First, we compared the wild-type coding DNA sequence (WT CDS) with the protein sequence to verify that the identified protein corresponded to the gene identified in the WT CDS. We confirmed that both matched, as they shared the same gene name, HBB, and were located on the same chromosome. The gene is located on chromosome 11, specifically at locus 11p15.4, and contains three exons. It is expressed in several tissues and organs, including the lungs, fetal liver, placenta, liver, kidneys, heart, and spleen. The protein encoded by this gene is known as hemoglobin subunit beta.
+                          
+                          2.1 Comparison of Wild-Type and mutant Coding DNA sequences
 After confirming this information, we compared the wild-type coding DNA sequence (WT CDS) with the mutated coding DNA sequence (mutant CDS). We verified that the mutant CDS corresponded to the same gene as the WT CDS, since both shared the same gene name and were located on the same chromosome. However, differences were observed in their sequence alignment results. The mutant CDS showed 100% coverage, an E-value of 0.0, and 99.55% identity, whereas the WT CDS showed 100% coverage, an E-value of 0.0, and 100% identity.
+                        
+                          3.1 Comparison of Wild-Type and mutant protein sequences
 Finally, we compared the wild-type protein sequence with the mutated protein sequence. Both sequences corresponded to the same gene, as they shared the same name and were located on the same chromosome. Nevertheless, their sequence alignment results showed some differences. The mutant protein sequence had 100% coverage, an E-value of 5e-102, and 99.32% identity, while the WT protein sequence had 100% coverage, an E-value of 5e-103, and 100% identity.
 
 # Hemoglobin Gene Sequences (Sickle Cell Anemia Analysis)
