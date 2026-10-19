@@ -26,7 +26,7 @@ First, we compared the wild-type coding DNA sequence (WT CDS) with the protein s
 After confirming this information, we compared the wild-type coding DNA sequence (WT CDS) with the mutated coding DNA sequence (mutant CDS). We verified that the mutant CDS corresponded to the same gene as the WT CDS, since both shared the same gene name and were located on the same chromosome. However, differences were observed in their sequence alignment results. The mutant CDS showed 100% coverage, an E-value of 0.0, and 99.55% identity, whereas the WT CDS showed 100% coverage, an E-value of 0.0, and 100% identity.
 Finally, we compared the wild-type protein sequence with the mutated protein sequence. Both sequences corresponded to the same gene, as they shared the same name and were located on the same chromosome. Nevertheless, their sequence alignment results showed some differences. The mutant protein sequence had 100% coverage, an E-value of 5e-102, and 99.32% identity, while the WT protein sequence had 100% coverage, an E-value of 5e-103, and 100% identity.
 
-# LAB 1: Hemoglobin Gene Sequences (Sickle Cell Anemia Analysis)
+# Hemoglobin Gene Sequences (Sickle Cell Anemia Analysis)
 
 ## Wild Type (WT) vs. Mutant CDS & Protein Comparison
 
@@ -89,7 +89,6 @@ The protein corresponds to the gene identified and both also share the same locu
 5. Heart
 6. Liver
 
-# Lab 2
 
 ## Wild Type (WT) CDS & Protein Sequences for HBB Homologs
 
@@ -143,6 +142,13 @@ NLKGTFATLSELHCDKLHVDPENFRLLGNVLVCVLAHHFGKEFTPPVQAAYQKVVAGVANALAHKYH
 | Gene | Accession | Coverage | Identity | E-value |
 | --- | --- | --- | --- | --- |
 | **HBB** | `XP_508242.1` | 100% | 100% | $2 \times 10^{-106}$ |
+
+
+
+# Sequence alignment
+## Wild type (WT) with mutant 
+### mRNA sequence
+
 
 ### [Subheading Example 1]
 [Text for findings...]
