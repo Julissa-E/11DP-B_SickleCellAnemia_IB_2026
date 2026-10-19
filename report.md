@@ -157,7 +157,14 @@ NLKGTFATLSELHCDKLHVDPENFRLLGNVLVCVLAHHFGKEFTPPVQAAYQKVVAGVANALAHKYH
 # Sequence alignment
 ## Wild type (WT) with mutant 
 ### mRNA sequence
+The comparison between the healthy  and mutant nucleotide sequence alignment revealed two substitutions. The first substitution, c.9T>C, is synonymous, as both codons, CAT and CAC, encode the same amino acid, Histidine (His), as they are complementary. The second substitution, c.20A>T, is a missense mutation, in which the codon GAG is replaced by GTG, resulting in the substitution of Glutamic acid (Glu) by Valine (Val); the changed nucleotides are not complementary.
+Non insertions or deletions were identified in the nucleotide sequence alignment, we only observed nucleotide substitutions. This is why the reading frame remains unchanged and no frameshift occurs in the sequences analyzed.
+
+
 ### Protein sequence
+The alignment revealed an aminoacid substitution at p.Glu7Val, having the Glutamic acid (Glu) replaced by Valine (Val). The Glutamic acid is polar, charged, and hydrophilic, while Valine is nonpolar, neutral, and hydrophobic. This mutation changes the chemical properties of the protein, making the affected area more hydrophobic.
+The substitution of aminoacid can change the interactions that makes at this position, because Glutamic acid (Glu) is charged and hydrophilic, while Valine (Val) is neutral and hydrophobic. As a result, the mutation reduces the ability of the protein to form electrostatic interactions and favors hydrophobic interactions with other Hemoglobin molecules. Accordingly, Valine supports hydrophobic interactions with other Hemoglobin molecules instead of interactions with water, this causes Hemoglobin S (HbS) molecules to stick together and form rigid insoluble polymers. 
+The mutation affects the protein folding and function, because the substitution of Glutamic acid by Valine, the chemical properties of the protein's surface change. Valine promotes interaction between Hemoglobin S (HbS) molecules because of its hydrophobic properties. As a result, the Hemoglobin molecules stick together and form rigid fibers, affecting the shape red blood cells, making them go from their biconcave disk shape to sickle shape with poited ends, and also affecting their normal function of carrying and delivering oxygen.
 
 
 ## Wild Type (WT) [Homo sapiens] with homologs
