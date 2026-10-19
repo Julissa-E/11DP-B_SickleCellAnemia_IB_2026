@@ -148,6 +148,12 @@ NLKGTFATLSELHCDKLHVDPENFRLLGNVLVCVLAHHFGKEFTPPVQAAYQKVVAGVANALAHKYH
 # Sequence alignment
 ## Wild type (WT) with mutant 
 ### mRNA sequence
+### Protein sequence
+
+
+## Wild Type (WT) [Homo sapiens] with homologs
+### mRNA sequence
+### Protein sequence
 
 
 ### [Subheading Example 1]
