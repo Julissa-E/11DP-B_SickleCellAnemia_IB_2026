@@ -21,7 +21,11 @@
 
 ## Results
 [Present your findings. Use subheadings as needed.]
+
+The analysis of data sources containing nucleotide and protein sequences allowed us to identify similarities and differences between the sequences studied.
+   
                                           1.SEQUENCE SEARCH
+                                          
                           1.1 Identification and Characterization of HBB Gene and protein
 First, we compared the wild-type coding DNA sequence (WT CDS) with the protein sequence to verify that the identified protein corresponded to the gene identified in the WT CDS. We confirmed that both matched, as they shared the same gene name, HBB, and were located on the same chromosome. The gene is located on chromosome 11, specifically at locus 11p15.4, and contains three exons. It is expressed in several tissues and organs, including the lungs, fetal liver, placenta, liver, kidneys, heart, and spleen. The protein encoded by this gene is known as hemoglobin subunit beta.
                           
