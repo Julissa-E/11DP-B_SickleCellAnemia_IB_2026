@@ -13,6 +13,7 @@ We will focus on studying sickle cell disease and how affects humans and possibl
 - `report.md` → main report document
 - `figures/` → images and plots
 - `README.md` → information about the repository
+- `references.md` → bibliography
 
 ## How to Read This Report
 
