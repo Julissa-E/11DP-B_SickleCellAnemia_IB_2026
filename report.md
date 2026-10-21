@@ -195,6 +195,27 @@ Linking this with the mutant *Homo sapiens* CDS sequence, the disease-associated
 
 ## Methods
 [Provide technical details for reproducibility: Data Sources, Implementation, Statistical Analysis.]
+For The BLAST searches we used the selected algorithms and parameters for nucleotide and protein sequence comparisons. With The resulting alignments we evaluated the sequence identity, query coverage, E-values, substitutions, gaps, and conserved regions.
+
+1.Sequence Identification Using BLAST
+To identify and verify the nucleotide and protein sequences associated with sickle cell anemia, we used the Basic Local Alignment Search Tool (BLAST), available through the National Center for Biotechnology Information (NCBI).First, we analyzed the wild-type coding DNA sequence (WT CDS) and the corresponding wild-type protein sequence of the HBB gene, which encodes hemoglobin subunit beta.
+We used BLAST to verify the identity of the sequences by comparing them with sequences available in the NCBI databases. We examined the gene name, chromosome location, sequence identity, query coverage, and E-value to determine whether the sequences corresponded to the HBB gene.
+For nucleotide sequences, we used Nucleotide BLAST (BLASTn), while for amino acid sequences, we used Protein BLAST (BLASTp).
+
+2. Comparison Between Wild-Type and Mutant Sequences
+After identifying the sequences, we used BLAST to compare the wild-type and mutant versions of the HBB gene at both the nucleotide and protein levels. First, we performed a nucleotide sequence alignment between the wild-type coding DNA sequence (WT CDS) and the mutant coding DNA sequence (mutant CDS) using BLASTn. The alignment was examined to identify nucleotide substitutions, insertions, deletions, and possible changes in the reading frame. Next, we compared the wild-type and mutant protein sequences using BLASTp. This alignment allowed us to identify amino acid substitutions and examine differences between the protein sequences. For both comparisons, we analyzed the sequence alignments and their corresponding identity percentages, query coverage, and E-values.
+
+3. Identification of Homologous Sequences Across Species
+To identify homologous sequences of the HBB gene in other species, we used BLAST and the NCBI sequence databases. We selected three species for comparison: Homo sapiens, Pan troglodytes, and Equus caballus.
+The human sequence was used as the reference sequence (Query), while the chimpanzee and horse sequences were introduced as subject sequences. First, we used BLASTn to compare the coding DNA sequences of the three species. The sequences were aligned to identify conserved nucleotide regions, substitutions, and gaps.
+Afterward, we used BLASTp to perform the same comparison at the protein level, using the amino acid sequences of hemoglobin subunit beta from the three species.
+The resulting alignments were examined to identify conserved amino acid regions, substitutions, and gaps.
+
+4. Comparison of Nucleotide and Protein Alignments
+Finally, we compared the nucleotide and protein sequence alignments obtained using BLAST.
+We examined the conservation patterns across the three species at both the CDS and protein levels.
+We also compared the nucleotide and amino acid variations to determine whether changes in the coding DNA sequences corresponded to changes in the protein sequences. Additionally, we examined specific amino acid positions associated with hemoglobin function and the disease-related variant identified in the human HBB gene.
+
 
 ## Abbreviations
 * **AI:** Artificial Intelligence
