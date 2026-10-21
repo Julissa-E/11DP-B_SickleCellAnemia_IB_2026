@@ -169,8 +169,15 @@ Linking this with the mutant *Homo sapiens* CDS sequence, the disease-associated
 
 
 
-### [Subheading Example 1]
-[Text for findings...]
+### Sickle Cell Anemia in humans
+[The beta-globin, which is made by the gene HBB, is a subunit of a larger protein called hemoglobin, that contains 147 amino acids (reference to the sequence in whichever file is located), located inside the red blood cells. It is  involved in the transport of oxygen from the lungs to other tissues around the body. 
+For infants through adults, the hemoglobin consists of four protein subunits: Two beta-globins and two alpha globins. All of these subunits are bound to an iron-containing molecule called heme and consequently each heme can bind to one oxygen molecule.  (1)
+
+(Include information about the other mutation that is synonymous but not affecting) The focus of our research is the impact the mutation has in the beta-globin subunit when the gene transcription fails at chromosome 11. When this scenario occurs, the coding of the amino acid is affected therefore in the sequence at position 7, instead of obtaining a glutamic acid, there is a valine, E7V.
+
+The change in the sequence of these amino acids has a great impact on the structure, charge, interactions with other molecules, size and resulting functions of the protein.
+
+Here is a detailed chart with the main differences between the hemoglobin beta-subunit and mutant HBs.]
 
 ### [Subheading Example 2]
 [Text for findings...]
