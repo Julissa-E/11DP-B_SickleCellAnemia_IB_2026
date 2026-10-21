@@ -6,12 +6,19 @@ This document contains the scientific articles and other sources used in our pro
 
 ### Article 1
 
-- Authors:
-- Year:
-- Title:
-- Journal:
-- DOI:
-- Link:
+### Selected PubMed Article
+
+* **Pubmed Heading:** `"Hemoglobin, Sickle"[MeSH Terms]`
+* **Review Title:** Is There a Difference in Occurrence of Complications Between Adults With Hemoglobin SS and Hemoglobin SC Disease: An Extended Systematic Review
+* **Author(s):** Martijn van der Meer, Kim Velsink, Wing H Tong, Jan W Schoones
+* **Journal:** European Journal of Haematology
+* **Publication Year:** 2026 Jun 15
+* **Source:** PubMed
+* **Identifier:** PMID: 42297565
+* **Format:** PDF
+* **Source Links:**
+  * [DOI Journal Link](https://doi.org/10.1111/ejh.70239)
+  * [PubMed Link](https://pubmed.ncbi.nlm.nih.gov/42297565/)
 
 ### Article 2
 
