@@ -20,27 +20,19 @@
 [Explain the background to the study, its aims, and research gap.]
 
 ## Results
-[Present your findings. Use subheadings as needed.]
 
 The analysis of data sources containing nucleotide and protein sequences allowed us to identify similarities and differences between the sequences studied.
-   
-                                          1.SEQUENCE SEARCH
+
+### 1. Sequence comparison
                                           
-                          1.1 Identification and Characterization of HBB Gene and protein
-First, we compared the wild-type coding DNA sequence (WT CDS) with the protein sequence to verify that the identified protein corresponded to the gene identified in the WT CDS. We confirmed that both matched, as they shared the same gene name, HBB, and were located on the same chromosome. The gene is located on chromosome 11, specifically at locus 11p15.4, and contains three exons. It is expressed in several tissues and organs, including the lungs, fetal liver, placenta, liver, kidneys, heart, and spleen. The protein encoded by this gene is known as hemoglobin subunit beta.
+#### 1.1 Identification and Characterization of HBB gene and protein
+
+Using BLAST, we compared the wild type (WT) Coding DNA Sequence (CDS) with the protein sequence, to verify that the identified protein corresponded to the gene identified in the WT CDS. Both matched, as they shared the same gene name, HBB, and were located on chromosome 11, with locus 11p15.4, the gene coding for the HBB protein, Hemoglobin-subunit beta, contained three exons. HBB it's expressed in several tissues and organs, including the lungs, fetal liver, placenta, liver, kidneys, heart, and the spleen. 
                           
-                          2.1 Comparison of Wild-Type and mutant Coding DNA sequences
-After confirming this information, we compared the wild-type coding DNA sequence (WT CDS) with the mutated coding DNA sequence (mutant CDS). We verified that the mutant CDS corresponded to the same gene as the WT CDS, since both shared the same gene name and were located on the same chromosome. However, differences were observed in their sequence alignment results. The mutant CDS showed 100% coverage, an E-value of 0.0, and 99.55% identity, whereas the WT CDS showed 100% coverage, an E-value of 0.0, and 100% identity.
-                        
-                          3.1 Comparison of Wild-Type and mutant protein sequences
-Finally, we compared the wild-type protein sequence with the mutated protein sequence. Both sequences corresponded to the same gene, as they shared the same name and were located on the same chromosome. Nevertheless, their sequence alignment results showed some differences. The mutant protein sequence had 100% coverage, an E-value of 5e-102, and 99.32% identity, while the WT protein sequence had 100% coverage, an E-value of 5e-103, and 100% identity.
+#### 1.2. Comparison of Wild Type and Mutant CDS and Protein sequences 
+##### Comparison of Coding DNA Sequences 
+After confirming the match, we compared the Wild type (WT) CDS, with the Muatnt CDS. We assured that the Mutant CDS corresponded to the same gene as the Wild type CDS, sharing both the same locus and gene name. However, differences were observed in their sequence alignment results;
 
-
-### Hemoglobin Gene Sequences (Sickle Cell Anemia Analysis)
-
-#### Wild Type (WT) vs. Mutant CDS & Protein Comparison
-
-##### DNA Sequences (CDS)
 ###### Wild Type (WT) CDS
 >SCA_CDS_WT
 ACATTTGCTTCTGACACAACTGTGTTCACTAGCAACCTCAAACAGACACCATGGTGCATCTGACTCCTGAGGAGAAGTCT
@@ -61,6 +53,7 @@ AACCTCAAGGGCACCTTTGCCACACTGAGTGAGCTGCACTGTGACAAGCTGCACGTGGATCCTGAGAACTTCAGGCTCCT
 GGGCAACGTGCTGGTCTGTGTGCTGGCCCATCACTTTGGCAAAGAATTCACCCCACCAGTGCAGGCTGCCTATCAGAAAG
 TGGTGGCTGGTGTGGCTAATGCCCTGGCCCACAAGTATCACTAA
 
+The table illustrates the difference in the BLAST results comparing the Wild type CDS with the Mutant one:
 
 | Variant | Coverage | Identity | E-value |
 | --- | --- | --- | --- |
@@ -68,7 +61,10 @@ TGGTGGCTGGTGTGGCTAATGCCCTGGCCCACAAGTATCACTAA
 | Mutant | 100% | 99.55% | 0.0 |
 
 
-##### Protein sequence
+
+#### Comparison of protein sequences
+Finally, we compared the Wild type protein sequence with the Mutant protein sequence. We assured that both sequences were coded from the same gene, HBB, and had the same locus. Nevertheless, their sequence alignment results showed some differences; 
+
 ###### Wild type (WT) Protein
 >SCA_protein_WT
 MVHLTPEEKSAVTALWGKVNVDEVGGEALGRLLVVYPWTQRFFESFGDLSTPDAVMGNPKVKAHGKKVLGAFSDGLAHLD
@@ -79,6 +75,7 @@ NLKGTFATLSELHCDKLHVDPENFRLLGNVLVCVLAHHFGKEFTPPVQAAYQKVVAGVANALAHKYH
 MVHLTPVEKSAVTALWGKVNVDEVGGEALGRLLVVYPWTQRFFESFGDLSTPDAVMGNPKVKAHGKKVLGAFSDGLAHLD
 NLKGTFATLSELHCDKLHVDPENFRLLGNVLVCVLAHHFGKEFTPPVQAAYQKVVAGVANALAHKYH
 
+The table illustrates the differences obtained after the BLAST search, comparing both protein sequences- 
 
 | Variant | Coverage | Identity | E-value |
 | --- | --- | --- | --- |
@@ -86,21 +83,7 @@ NLKGTFATLSELHCDKLHVDPENFRLLGNVLVCVLAHHFGKEFTPPVQAAYQKVVAGVANALAHKYH
 | Mutant | 100% | 99.32% | $5 \times 10^{-102}$ |
 
 
-##### Overview 
-
-The gene that causes sickle cell anemia and the one that codes Hemoglobin is called HBB, found on the chromosome 11 with 11p15.4 as locus. Has accession: NM_000518.5 
-The protein name is hemoglobin subunit beta (other names: Hb Monza protein, beta globin chain, hemoglobin beta subunit, hemoglobin, beta), found on gene HBB with accession NC_000011.10 / NP_000509.1 
-The protein corresponds to the gene identified and both also share the same locus on chromosome 11. The gene has 3 exons and it’s expressed principally on the:
-1. Lung
-2. Liver (fetal)
-3. Placenta
-4. Spleen (-->bazo)
-5. Heart
-6. Liver
-
-
-#### Wild Type (WT) CDS & Protein Sequences for HBB Homologs
-
+#### 1.3. Comparison of Wild type sequence with homologs sequences
 ##### Assigned Species: *Equus caballus*
 
 ###### DNA Sequence
@@ -153,32 +136,37 @@ NLKGTFATLSELHCDKLHVDPENFRLLGNVLVCVLAHHFGKEFTPPVQAAYQKVVAGVANALAHKYH
 | **HBB** | `XP_508242.1` | 100% | 100% | $2 \times 10^{-106}$ |
 
 
-#### Sequence alignment
-##### Wild type (WT) with mutant 
-###### mRNA sequence
+### 2. Sequence alignment
+#### 2.1. Wild type (WT) with mutant
+
+##### Coding DNA sequences
+
 The comparison between the healthy  and mutant nucleotide sequence alignment revealed two substitutions. The first substitution, c.9T>C, is synonymous, as both codons, CAT and CAC, encode the same amino acid, Histidine (His), as they are complementary. The second substitution, c.20A>T, is a missense mutation, in which the codon GAG is replaced by GTG, resulting in the substitution of Glutamic acid (Glu) by Valine (Val); the changed nucleotides are not complementary.
 Non insertions or deletions were identified in the nucleotide sequence alignment, we only observed nucleotide substitutions. This is why the reading frame remains unchanged and no frameshift occurs in the sequences analyzed.
 
+##### Protein sequences
 
-###### Protein sequence
 The alignment revealed an aminoacid substitution at p.Glu7Val, having the Glutamic acid (Glu) replaced by Valine (Val). The Glutamic acid is polar, charged, and hydrophilic, while Valine is nonpolar, neutral, and hydrophobic. This mutation changes the chemical properties of the protein, making the affected area more hydrophobic.
 The substitution of aminoacid can change the interactions that makes at this position, because Glutamic acid (Glu) is charged and hydrophilic, while Valine (Val) is neutral and hydrophobic. As a result, the mutation reduces the ability of the protein to form electrostatic interactions and favors hydrophobic interactions with other Hemoglobin molecules. Accordingly, Valine supports hydrophobic interactions with other Hemoglobin molecules instead of interactions with water, this causes Hemoglobin S (HbS) molecules to stick together and form rigid insoluble polymers. 
 The mutation affects the protein folding and function, because the substitution of Glutamic acid by Valine, the chemical properties of the protein's surface change. Valine promotes interaction between Hemoglobin S (HbS) molecules because of its hydrophobic properties. As a result, the Hemoglobin molecules stick together and form rigid fibers, affecting the shape red blood cells, making them go from their biconcave disk shape to sickle shape with poited ends, and also affecting their normal function of carrying and delivering oxygen.
 
 
-##### Wild Type (WT) *Homo sapiens* with homologs
-###### CDS sequence
+#### 2.2.  Wild Type (WT) with homologs
+###### Coding DNA sequences
+
 The sequence alignment between *Homo sapiens*, *Equus caballus* and *Pan troglodytes* revealed highly conserved regions across the CDS sequence. It shows that the *Homo sapiens* and the *Pan trglodytes* sequences have very few differences between them, while the *Equus caballus* sequence displays more variations between nucleotides. Even so, several regions remain conserved across all three species.
 The nucleotide variatons among the three species included substitutions and gaps. The *Pan troglodytes* sequence shows very few substitutions when being compared with the *Homo sapiens* sequence, and no gaps in the aligned region. In the *Equus caballus* sequence, more nucleotide substitutions are present and several gaps- that can indicate possible insertions or deletions- , when being compared with the *Homo sapiens* one. 
 
 
-###### Protein sequence
+###### Protein sequences
 The protein sequence alignment between the three species revealed highly conserved regions among them. The *Pan trglodytes* and the *Homo sapiens* protein sequences are identical across the 147 aminoacids analyzed, showing no differences. The *Equus Caballus* sequence also shares many conserved aminoacids with the *Homo sapiens* sequence, although several substitutions are observed.
 Not all nucleotide sequence variants between result in aminoacid changes, because different codons can encode the same amin acid, producing synonymous substitutions. In the alignments, the *Homo sapiens* and *Pan troglodytes* CDS sequences show some nucleotide differences, while their protein sequences remain identical.
+
 The three species appear to be more similar at the protein level than at the CDS level. This is because some nucleotide substitutions are synonymous and do not change the encoded aminoacid. Therefore, we can identify more differences in the DNA sequences that do not always produce differences in the protein sequences.
 Some protein positions remain conserved during evolution because they are essential for the protein's structure and function. In our sequence alignment, we identified two conserved Histidine residues at p.64 and p.93 corresponding to positions p.63 and p.92 in mature beta-globin, respectively. These amino acids are important for the Hemoglobin function. The distal Histidine (His63 in mature beta-globin) helps stabilize oxygen binding, while the proximal Histidine (His92 in mature beta-globin) binds directly to the iron of the heme group. Changes in these positions could affect the normal function of hemoglobin, which explains why tend to remain conserved during evolution.
 
 Linking this with the mutant *Homo sapiens* CDS sequence, the disease-associated variant is located at a conserved position in the protein sequence. The alignment shows that Glutamic acid (Glu) at position 7 is conserved across *Homo sapiens*, *Pan troglodytes*, and *Equus caballus*. This aminoacid is located on the surface of the beta-globin protein, is negatively charged and hydrophilic. In the mutant variant that causes the sickle cell anemia, Glutamic acid is replaced by Valine (Val), which is neutral and hydrophobic. This substitution, as said earlier, changes the interactions that take place at this position and promotes the aggregation of deoxygenated HbS molecules.
+
 
 
 ### [Subheading Example 1]
