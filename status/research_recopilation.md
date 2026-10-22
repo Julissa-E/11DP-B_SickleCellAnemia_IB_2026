@@ -77,3 +77,52 @@ Sickle Cell Disease (SCD) is characterized by:
   * **Link:** [Insert URL here]
   * **Source:** PubMed / UniProt
   * **Bibliography:** Article [X]
+
+
+## 7. Strcucture of human desoxyhemoglobin & intermolecular contacts 
+  * **Authors(s):** Fermi. G, Perutz, M.F., Shaanan. B, Fourme. R
+  * **Publication Year:** 1984
+  * **Source:** MFM (Mississippi State University) :: Main Library
+  * **Format:** PDF
+  * **Source Link:** 9954928430006710 (ID)
+
+* **Abstract:**
+  Description of the 3D structure of human deoxyhemoglobin (deoxygenated state or T state)
+  Reveals with precision the geometry of the iron atom and the heme group. The iron is displaced outside the plane of the porfine ring (0,40 Å of distance at the    subunits alfa and 0,36 Å on subunits beta)
+  Shows that heme group exhibits doming towards the proximal side.
+  Intermolecular contacts with neighbouring molecules cause little localized distortions that do not alter the global structure of the protein.
+
+* **Introduction:**
+  To understand how hemoglobin works and how it’s forms change (allosteric mechanism), we need to know it’s exact structure on its two states: oxygenated (R )       and deoxygenated (T).
+  It is known that the subunit beta has LESS affinity for the oxygen in T state (because of Valine’s ester group in aminoacid Val E11), but it wasn’t clare why      the subunit alfa presented LESS affinity (as the beta subunit), because the union site there it’s just blocked by a molecule of water.
+  With the previous structural data it wasn’t possible to determine the position of the iron atom nor the deformation of the heme group. 
+  This study aimed to obtain a more precise model (with higher resolution) to answer these questions.
+
+* **Results:**
+  * Intermolecular contacts and symmetry
+    Analyzing how hemoglobin molecules package on the crystal, they observed that EVERY molecule is in contact with other twelve molecules
+    Assured that this kind of interactions just trigger little asymmetries, confirming that the structure observed is representative of the protein in native          solution.
+  * Geometry of group heme and iron       
+    Position of iron: The iron atom in NOT aligned with the porfine plane, protrudes to Histidine F8 amino acid.
+    Outpouching (abombament) and distortion: The ring of the heme group is not completely planar, but presents a folding (curvatura) characteristic of subunits                                                 alpha and beta.
+    Distances of bonding: The distance Fe-N of the heme group and of the axial ligand (His F8) was recorded with high precision (around 2,06Å and 2,12 Å in each                             case)
+  * Blocking of the site of bonding
+    It’s confirmed that on beta chains, Val E11 physically obstructs the arrival of oxygen on T state.
+
+ * **Discussion:**
+   * Affinity for oxygen and allosteric mechanism 
+     The low affinity for oxygen on T state, does not come from an abnormal or forced geometry of the bond between iron and nitrogen (Fe-N), but from the global        restrictions that the protein (globin) does over all the complex of the heme group. These restrictions difficult the iron movement towards the heme plane, a       movement necessary to bind the oxygen.
+   * Helicoidal movements
+     Comparing this model of deoxyhemoglobin with the oxyhemoglobin, we can count precisely the movements of E and F helices. This estereo chemical changes are         the key of the conformational allosteric changes between the R state and the T state.
+ 
+ * **Conclusions:**
+   Refined structural model: They obtained the most precisely atomic model for human deoxyhemoglobin.
+   Validation of biological principles: Confirmed that the allosteric transition (the transition from low to high affinity for oxygen) depends on subtle changes                                           of iron position and the movement of the surrounding helices.
+
+
+
+
+
+
+
+
