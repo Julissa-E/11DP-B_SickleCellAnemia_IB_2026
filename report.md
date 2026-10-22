@@ -23,13 +23,13 @@
 
 The analysis of data sources containing nucleotide and protein sequences allowed us to identify similarities and differences between the sequences studied.
 
-### 1. Sequence comparison
+### Sequence comparison
                                           
-#### 1.1 Identification and Characterization of HBB gene and protein
+#### Identification and Characterization of HBB gene and protein
 
 Using BLAST, we compared the wild type (WT) Coding DNA Sequence (CDS) with the protein sequence, to verify that the identified protein corresponded to the gene identified in the WT CDS. Both matched, as they shared the same gene name, HBB, and were located on chromosome 11, with locus 11p15.4, the gene coding for the HBB protein, Hemoglobin-subunit beta, contained three exons. HBB it's expressed in several tissues and organs, including the lungs, fetal liver, placenta, liver, kidneys, heart, and the spleen. 
                           
-#### 1.2. Comparison of Wild Type and Mutant CDS and Protein sequences 
+#### Comparison of Wild Type and Mutant CDS and Protein sequences 
 ##### Comparison of Coding DNA Sequences 
 After confirming the match, we compared the Wild type (WT) CDS, with the Muatnt CDS. We assured that the Mutant CDS corresponded to the same gene as the Wild type CDS, sharing both the same locus and gene name. However, differences were observed in their sequence alignment results;
 
@@ -83,7 +83,7 @@ The table illustrates the differences obtained after the BLAST search, comparing
 | Mutant | 100% | 99.32% | $5 \times 10^{-102}$ |
 
 
-#### 1.3. Comparison of Wild type sequence with homologs sequences
+#### Comparison of Wild type sequence with homologs sequences
 ##### Assigned Species: *Equus caballus*
 
 ###### DNA Sequence
@@ -136,8 +136,8 @@ NLKGTFATLSELHCDKLHVDPENFRLLGNVLVCVLAHHFGKEFTPPVQAAYQKVVAGVANALAHKYH
 | **HBB** | `XP_508242.1` | 100% | 100% | $2 \times 10^{-106}$ |
 
 
-### 2. Sequence alignment
-#### 2.1. Wild type (WT) with mutant
+### Sequence alignment
+#### Wild type (WT) with mutant
 
 ##### Coding DNA sequences
 
@@ -151,7 +151,7 @@ The substitution of aminoacid can change the interactions that makes at this pos
 The mutation affects the protein folding and function, because the substitution of Glutamic acid by Valine, the chemical properties of the protein's surface change. Valine promotes interaction between Hemoglobin S (HbS) molecules because of its hydrophobic properties. As a result, the Hemoglobin molecules stick together and form rigid fibers, affecting the shape red blood cells, making them go from their biconcave disk shape to sickle shape with poited ends, and also affecting their normal function of carrying and delivering oxygen.
 
 
-#### 2.2.  Wild Type (WT) with homologs
+#### Wild Type (WT) with homologs
 ###### Coding DNA sequences
 
 The sequence alignment between *Homo sapiens*, *Equus caballus* and *Pan troglodytes* revealed highly conserved regions across the CDS sequence. It shows that the *Homo sapiens* and the *Pan trglodytes* sequences have very few differences between them, while the *Equus caballus* sequence displays more variations between nucleotides. Even so, several regions remain conserved across all three species.
@@ -178,11 +178,11 @@ For infants through adults, the hemoglobin consists of four protein subunits: Tw
 The change in the sequence of these amino acids has a great impact on the structure, charge, interactions with other molecules, size and resulting functions of the protein.
 
 Here is a detailed chart with the main differences between the hemoglobin beta-subunit and mutant HBs.
-# Comparative Analysis: Normal Human Beta-Globin Subunit (HBB) vs. Sickle Cell Beta-Globin Subunit (HbS)
+### Comparative Analysis: Normal Human Beta-Globin Subunit (HBB) vs. Sickle Cell Beta-Globin Subunit (HbS)
 
 ---
 
-### Primary & Secondary Structure Organization
+#### Primary & Secondary Structure Organization
 
 | Feature / Question | Wild-Type Beta Subunit ($\text{HBB}$ / $\text{HbA}$) | Sickle Cell Beta Subunit ($\text{HbS}$) |
 | :--- | :--- | :--- |
@@ -193,7 +193,7 @@ Here is a detailed chart with the main differences between the hemoglobin beta-s
 
 ---
 
-### Tertiary & Quaternary Structure
+#### Tertiary & Quaternary Structure
 
 | Feature / Question | Wild-Type Beta Subunit ($\text{HBB}$ / $\text{HbA}$) | Sickle Cell Beta Subunit ($\text{HbS}$) |
 | :--- | :--- | :--- |
@@ -204,7 +204,7 @@ Here is a detailed chart with the main differences between the hemoglobin beta-s
 
 ---
 
-### Principles of Architecture & Stabilizing Forces
+#### Principles of Architecture & Stabilizing Forces
 
 | Feature / Question | Wild-Type Beta Subunit ($\text{HBB}$ / $\text{HbA}$) | Sickle Cell Beta Subunit ($\text{HbS}$) |
 | :--- | :--- | :--- |
@@ -214,7 +214,7 @@ Here is a detailed chart with the main differences between the hemoglobin beta-s
 
 ---
 
-### SCOP Structural Classification
+#### SCOP Structural Classification
 
 | Feature / Question | Wild-Type Beta Subunit ($\text{HBB}$ / $\text{HbA}$) | Sickle Cell Beta Subunit ($\text{HbS}$) |
 | :--- | :--- | :--- |
