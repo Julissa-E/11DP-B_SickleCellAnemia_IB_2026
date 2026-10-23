@@ -28,20 +28,19 @@ To carry out the literature search for this project, official biomedical databas
 ## 2. The Protein: Beta-Globin (Normal vs. Mutated)
 **1. Different mutations in the HBB gene**
 **HBB gene**: This gene contains the information needed to produce the beta-globin protein, which is part of hemoglobin.
-
 **Hemoglobin S (HbS)**: It is caused by a mutation that replaces glutamic acid (Glu) with valine (Val).
-
 **Hemoglobin C (HbC)**: It is caused by another mutation that replaces glutamic acid (Glu) with lysine (Lys).
-
 **Importance**: Both mutations affect the same amino acid position, but they produce different changes in hemoglobin.
 
 **2.Comparison between HbSS and HbSC**
 The article compares two different forms of sickle cell disease:
+
 **- HbSS (Sickle Cell Anemia)**:
 Individuals have two HbS alleles.
 It generally causes more severe anemia.
 Red blood cells are more easily destroyed, producing higher levels of hemolysis.
 It can cause serious complications due to the abnormal shape of red blood cells.
+
 **- HbSC (Hemoglobin SC Disease)**:
 Individuals have one HbS allele and one HbC allele.
 It generally causes less severe anemia than HbSS.
@@ -155,11 +154,14 @@ Overall, the article helped us understand how a small change in DNA can affect p
 
 **2. Genetic factors that influence disease severity**
 The article studies genetic variations in three genes that can influence the characteristics of sickle cell anemia:
+
 **- CD36 gene**:
 Some genetic variants are associated with lower hemoglobin levels.
 The rs1413661_C allele was associated with a higher number of hospitalizations and blood transfusions.
+
 **- VCAM1 gene**:
 The rs1041163_C allele was associated with lower LDH levels, a marker related to hemolysis.
+
 **- NOS3 gene**:
 The rs2070744_C allele was associated with higher LDH levels.
 It was also related to a higher number of hospitalizations.
