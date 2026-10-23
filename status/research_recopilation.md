@@ -145,7 +145,7 @@ Overall, the article helped us understand how a small change in DNA can affect p
   * **Link:** [https://pmc.ncbi.nlm.nih.gov/articles/PMC13406992/]
   * **Source:** PubMed
   * **Bibliography:** Article 4
---
+
 **1. General concept of sickle cell anemia**
 **Sickle Cell Anemia (SCA)**: It is a genetic disease caused by a mutation in the HBB gene.
 **Main characteristics**: The disease causes abnormal red blood cells, chronic anemia and problems with blood circulation.
