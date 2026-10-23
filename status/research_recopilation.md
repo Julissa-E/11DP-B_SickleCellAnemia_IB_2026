@@ -28,8 +28,11 @@ To carry out the literature search for this project, official biomedical databas
 ## 2. The Protein: Beta-Globin (Normal vs. Mutated)
 **1. Different mutations in the HBB gene**
 **HBB gene**: This gene contains the information needed to produce the beta-globin protein, which is part of hemoglobin.
+
 **Hemoglobin S (HbS)**: It is caused by a mutation that replaces glutamic acid (Glu) with valine (Val).
+
 **Hemoglobin C (HbC)**: It is caused by another mutation that replaces glutamic acid (Glu) with lysine (Lys).
+
 **Importance**: Both mutations affect the same amino acid position, but they produce different changes in hemoglobin.
 
 **2.Comparison between HbSS and HbSC**
