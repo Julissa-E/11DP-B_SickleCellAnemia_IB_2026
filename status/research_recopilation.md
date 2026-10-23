@@ -15,7 +15,7 @@ Repository dedicated to the bioinformatic study of Sickle Cell Disease (SCD), an
 ---
 
 ## 1. Introduction & Search Criteria (PubMed / MeSH)
-* To carry out the literature search for this project, official biomedical databases were queried using the following criteria:
+To carry out the literature search for this project, official biomedical databases were queried using the following criteria:
 * **MeSH Term for the Disease:** `"Anemia, Sickle Cell"[MeSH Terms]` (ID: `D000755`)
 * **MeSH Term for the Protein/Variant:** `"Hemoglobin, Sickle"[MeSH Terms]` (ID: `D006451`)
 * **Cross-search in PubMed:** Combination of MeSH terms with review filters (*Review*) and temporal filters to retrieve state-of-the-art literature.
@@ -26,36 +26,36 @@ Repository dedicated to the bioinformatic study of Sickle Cell Disease (SCD), an
 ---
 
 ## 2. The Protein: Beta-Globin (Normal vs. Mutated)
-* **1. Different mutations in the HBB gene**
-* **HBB gene**: This gene contains the information needed to produce the beta-globin protein, which is part of hemoglobin.
-* **Hemoglobin S (HbS)**: It is caused by a mutation that replaces glutamic acid (Glu) with valine (Val).
-* **Hemoglobin C (HbC)**: It is caused by another mutation that replaces glutamic acid (Glu) with lysine (Lys).
-* **Importance**: Both mutations affect the same amino acid position, but they produce different changes in hemoglobin.
+**1. Different mutations in the HBB gene**
+**HBB gene**: This gene contains the information needed to produce the beta-globin protein, which is part of hemoglobin.
+**Hemoglobin S (HbS)**: It is caused by a mutation that replaces glutamic acid (Glu) with valine (Val).
+**Hemoglobin C (HbC)**: It is caused by another mutation that replaces glutamic acid (Glu) with lysine (Lys).
+**Importance**: Both mutations affect the same amino acid position, but they produce different changes in hemoglobin.
 
-* **2.Comparison between HbSS and HbSC**
+**2.Comparison between HbSS and HbSC**
 The article compares two different forms of sickle cell disease:
-* **- HbSS (Sickle Cell Anemia)**:
-* Individuals have two HbS alleles.
-* It generally causes more severe anemia.
-* Red blood cells are more easily destroyed, producing higher levels of hemolysis.
-* It can cause serious complications due to the abnormal shape of red blood cells.
-* **- HbSC (Hemoglobin SC Disease)**:
-* Individuals have one HbS allele and one HbC allele.
-* It generally causes less severe anemia than HbSS.
-* Red blood cells tend to be more dehydrated.
-* Although it is often considered less severe, it can also cause important health problems, including damage to different organs.
+**- HbSS (Sickle Cell Anemia)**:
+Individuals have two HbS alleles.
+It generally causes more severe anemia.
+Red blood cells are more easily destroyed, producing higher levels of hemolysis.
+It can cause serious complications due to the abnormal shape of red blood cells.
+**- HbSC (Hemoglobin SC Disease)**:
+Individuals have one HbS allele and one HbC allele.
+It generally causes less severe anemia than HbSS.
+Red blood cells tend to be more dehydrated.
+Although it is often considered less severe, it can also cause important health problems, including damage to different organs.
 
-* **3. Study using genetically modified mice**
-* **Research method**: Researchers used CRISPR technology to create mice with the HbSC genotype.
-* **Comparison**: They compared mice with normal hemoglobin (HbAA), HbSS and HbSC.
-* **Main results**:
-* HbSS mice showed more severe anemia and greater destruction of red blood cells.
-* HbSC mice showed more red blood cell dehydration.
-* Both groups developed abnormalities related to sickle cell disease.
-* **Importance**: These results show how different mutations in the same gene can produce different effects on the body.
+**3. Study using genetically modified mice**
+**Research method**: Researchers used CRISPR technology to create mice with the HbSC genotype.
+**Comparison**: They compared mice with normal hemoglobin (HbAA), HbSS and HbSC.
+**Main results**:
+HbSS mice showed more severe anemia and greater destruction of red blood cells.
+HbSC mice showed more red blood cell dehydration.
+Both groups developed abnormalities related to sickle cell disease.
+**Importance**: These results show how different mutations in the same gene can produce different effects on the body.
 
-* **4. Contribution to our project**
-* This article helped us understand that there are different types of abnormal hemoglobin, not only HbS.
+**4. Contribution to our project**
+This article helped us understand that there are different types of abnormal hemoglobin, not only HbS.
 We learned that changing the same amino acid into different amino acids can produce different consequences.
 It was especially useful because we identified the Glu → Val mutation in our WT and mutant HBB sequence comparison.
 We also discovered how CRISPR technology can be used to study genetic diseases.
@@ -70,23 +70,23 @@ Overall, we understood that small differences in DNA and protein sequences can a
 ## 3. Protein Structure: Normal vs. Mutated (HbA vs. HbS)
 
 **1. The HBB mutation and sickle cell disease**
-* **Sickle Cell Disease (SCD)**: It is a genetic disease caused by a mutation in the HBB gene, which produces the beta-globin protein, an important part of hemoglobin.
-* **Amino acid substitution**: The mutation causes glutamic acid (Glu) to be replaced by valine (Val) at position 6 of the beta-globin chain.
-* **Relation to our project**: This is the same mutation (GAG → GTG) that we identified when comparing the wild-type (WT) and mutant HBB sequences.
+**Sickle Cell Disease (SCD)**: It is a genetic disease caused by a mutation in the HBB gene, which produces the beta-globin protein, an important part of hemoglobin.
+**Amino acid substitution**: The mutation causes glutamic acid (Glu) to be replaced by valine (Val) at position 6 of the beta-globin chain.
+**Relation to our project**: This is the same mutation (GAG → GTG) that we identified when comparing the wild-type (WT) and mutant HBB sequences.
 
-* **2. Chemical and physical differences between amino acids**
-* **Glutamic acid (Glu)**: It is a hydrophilic amino acid, meaning that it interacts well with water.
-* **Valine (Val)**: It is a hydrophobic amino acid, meaning that it tends to interact with other hydrophobic regions instead of water.
-* **Consequences of the substitution**: This difference allows the mutated hemoglobin to form new interactions with other hemoglobin molecules.
+**2. Chemical and physical differences between amino acids**
+**Glutamic acid (Glu)**: It is a hydrophilic amino acid, meaning that it interacts well with water.
+**Valine (Val)**: It is a hydrophobic amino acid, meaning that it tends to interact with other hydrophobic regions instead of water.
+**Consequences of the substitution**: This difference allows the mutated hemoglobin to form new interactions with other hemoglobin molecules.
 
-* **3. Changes in hemoglobin structure and function**
-* **Formation of hemoglobin S (HbS)**: The mutation produces an abnormal form of hemoglobin called HbS.
-* **Polymerization**: Under low oxygen conditions, HbS molecules can stick together and form long, rigid fibers.
-* **Changes in red blood cells**: These fibers cause red blood cells to become rigid and sickle-shaped.
-* **Consequences**: The abnormal shape makes it difficult for red blood cells to move through small blood vessels, causing circulation problems.
+**3. Changes in hemoglobin structure and function**
+**Formation of hemoglobin S (HbS)**: The mutation produces an abnormal form of hemoglobin called HbS.
+**Polymerization**: Under low oxygen conditions, HbS molecules can stick together and form long, rigid fibers.
+**Changes in red blood cells**: These fibers cause red blood cells to become rigid and sickle-shaped.
+**Consequences**: The abnormal shape makes it difficult for red blood cells to move through small blood vessels, causing circulation problems.
 
-* **4. Contribution to our project**
-* This article helped us confirm and understand the mutation that we identified in our sequence alignments.
+**4. Contribution to our project**
+This article helped us confirm and understand the mutation that we identified in our sequence alignments.
 We learned that the different chemical properties of glutamic acid and valine are important for understanding how the mutation affects hemoglobin.
 It also helped us understand that even a single amino acid substitution can have important consequences, although two DNA or protein sequences are almost identical.
 Overall, we connected our bioinformatics results with the structural changes in hemoglobin that cause sickle cell disease.
@@ -97,9 +97,9 @@ Overall, we connected our bioinformatics results with the structural changes in 
 ---
 
 ## 4. Chemical and Physical Differences
-* **Physicochemical Shift:** Changing a charged hydrophilic group to a neutral hydrophobic residue alters local surface interactions without altering overall monomer folding.
-* **Mechanical Consequence:** Growing polymer fibers distort the elastic membrane of the erythrocyte, forcing it into a rigid **sickle shape**.
-* **Cellular Impact:** Loss of cell deformability leads to microvascular occlusion and premature hemolysis.
+**Physicochemical Shift:** Changing a charged hydrophilic group to a neutral hydrophobic residue alters local surface interactions without altering overall monomer folding.
+**Mechanical Consequence:** Growing polymer fibers distort the elastic membrane of the erythrocyte, forcing it into a rigid **sickle shape**.
+**Cellular Impact:** Loss of cell deformability leads to microvascular occlusion and premature hemolysis.
   * **Link:** [Insert URL here]
   * **Source:** PubMed / Literature
   * **Bibliography:** Article [X]
@@ -107,35 +107,35 @@ Overall, we connected our bioinformatics results with the structural changes in 
 ---
 
 ## 5. The Disease: Sickle Cell Anemia and its Effects
-* **1. General concept of sickle cell disease**
-* **Sickle Cell Disease (SCD)**: It is an inherited genetic disease caused by mutations affecting hemoglobin.
-* **HBB gene**: The disease is associated with a mutation in the HBB gene, located on chromosome 11.
-* **Hemoglobin S (HbS)**: The mutation causes the production of an abnormal form of hemoglobin, called HbS.
-* **Main consequence**: Under low oxygen conditions, HbS can form rigid fibers, changing the shape of red blood cells.
+**1. General concept of sickle cell disease**
+**Sickle Cell Disease (SCD)**: It is an inherited genetic disease caused by mutations affecting hemoglobin.
+**HBB gene**: The disease is associated with a mutation in the HBB gene, located on chromosome 11.
+**Hemoglobin S (HbS)**: The mutation causes the production of an abnormal form of hemoglobin, called HbS.
+**Main consequence**: Under low oxygen conditions, HbS can form rigid fibers, changing the shape of red blood cells.
   
-* **2. Genetic mutation and amino acid substitution**
-* **DNA mutation**: The article explains that the nucleotide sequence changes from GAG to GTG.
-* **Protein mutation**: This change causes glutamic acid (Glu) to be replaced by valine (Val) in the beta-globin chain.
-* **Mutation type**: It is a missense mutation because a nucleotide change produces a different amino acid.
-* **Relation to our project**: This is the same mutation that we identified when comparing the WT and mutant CDS sequences using BLAST.
+**2. Genetic mutation and amino acid substitution**
+**DNA mutation**: The article explains that the nucleotide sequence changes from GAG to GTG.
+**Protein mutation**: This change causes glutamic acid (Glu) to be replaced by valine (Val) in the beta-globin chain.
+**Mutation type**: It is a missense mutation because a nucleotide change produces a different amino acid.
+**Relation to our project**: This is the same mutation that we identified when comparing the WT and mutant CDS sequences using BLAST.
 
-* **3. Consequences of the mutation**
-* **Changes in hemoglobin**: The mutation affects the properties of hemoglobin and allows HbS molecules to polymerize under low oxygen conditions.
-* **Changes in red blood cells**: Instead of maintaining their normal flexible shape, red blood cells become rigid and sickle-shaped.
-* **Main health consequences**:
-* Chronic hemolytic anemia caused by the destruction of red blood cells.
-* Blockage of small blood vessels (vaso-occlusion).
-* Painful crises caused by reduced blood flow.
-* Possible damage to different organs.
+**3. Consequences of the mutation**
+**Changes in hemoglobin**: The mutation affects the properties of hemoglobin and allows HbS molecules to polymerize under low oxygen conditions.
+**Changes in red blood cells**: Instead of maintaining their normal flexible shape, red blood cells become rigid and sickle-shaped.
+**Main health consequences**:
+Chronic hemolytic anemia caused by the destruction of red blood cells.
+Blockage of small blood vessels (vaso-occlusion).
+Painful crises caused by reduced blood flow.
+Possible damage to different organs.
 
-* **4. Treatment and gene therapy**
-* **Traditional treatments**: The article explains that treatments such as hydroxyurea and blood transfusions can help reduce the symptoms and complications.
-* **Gene therapy**: New treatments use genetic technologies to improve the production or function of hemoglobin.
-* **CRISPR/Cas9**: The article describes how this technology is being used to treat sickle cell disease by modifying gene regulation to increase fetal hemoglobin production.
+**4. Treatment and gene therapy**
+**Traditional treatments**: The article explains that treatments such as hydroxyurea and blood transfusions can help reduce the symptoms and complications.
+**Gene therapy**: New treatments use genetic technologies to improve the production or function of hemoglobin.
+**CRISPR/Cas9**: The article describes how this technology is being used to treat sickle cell disease by modifying gene regulation to increase fetal hemoglobin production.
 **Importance**: These developments show how understanding genetic mutations can help researchers develop new treatments.
 
-* **5. Contribution to our project**
-* This article helped us confirm the GAG → GTG mutation that we found in our sequence alignments.
+**5. Contribution to our project**
+This article helped us confirm the GAG → GTG mutation that we found in our sequence alignments.
 We understood how this mutation changes the beta-globin protein and produces abnormal hemoglobin.
 It helped us connect the differences between the WT and mutant sequences with the development of sickle cell disease.
 We also learned about the relationship between genetic research and new treatments.
@@ -145,33 +145,33 @@ Overall, the article helped us understand how a small change in DNA can affect p
   * **Source:** PubMed
   * **Bibliography:** Article 4
 
-* **1. General concept of sickle cell anemia**
-* **Sickle Cell Anemia (SCA)**: It is a genetic disease caused by a mutation in the HBB gene.
-* **Main characteristics**: The disease causes abnormal red blood cells, chronic anemia and problems with blood circulation.
-* **Disease severity**: Although patients may have the same disease-causing mutation, they do not always experience the same symptoms or severity.
+  **1. General concept of sickle cell anemia**
+**Sickle Cell Anemia (SCA)**: It is a genetic disease caused by a mutation in the HBB gene.
+**Main characteristics**: The disease causes abnormal red blood cells, chronic anemia and problems with blood circulation.
+**Disease severity**: Although patients may have the same disease-causing mutation, they do not always experience the same symptoms or severity.
 
-* **2. Genetic factors that influence disease severity**
+**2. Genetic factors that influence disease severity**
 The article studies genetic variations in three genes that can influence the characteristics of sickle cell anemia:
-* **- CD36 gene**:
-* Some genetic variants are associated with lower hemoglobin levels.
-* The rs1413661_C allele was associated with a higher number of hospitalizations and blood transfusions.
+**- CD36 gene**:
+Some genetic variants are associated with lower hemoglobin levels.
+The rs1413661_C allele was associated with a higher number of hospitalizations and blood transfusions.
 **- VCAM1 gene**:
-* The rs1041163_C allele was associated with lower LDH levels, a marker related to hemolysis.
+The rs1041163_C allele was associated with lower LDH levels, a marker related to hemolysis.
 **- NOS3 gene**:
-* The rs2070744_C allele was associated with higher LDH levels.
-* It was also related to a higher number of hospitalizations.
+The rs2070744_C allele was associated with higher LDH levels.
+It was also related to a higher number of hospitalizations.
 
-* **3. Study conducted in Angola**
-* Study population: Researchers analyzed 200 children with sickle cell anemia living in Angola.The study aimed to understand why some patients experience more severe symptoms than others. Researchers analyzed genetic variants and compared them with clinical information and blood test results.
-* **Main result**: They found that genetic variations in other genes can influence anemia severity, red blood cell destruction and the number of hospitalizations.
+**3. Study conducted in Angola**
+Study population: Researchers analyzed 200 children with sickle cell anemia living in Angola.The study aimed to understand why some patients experience more severe symptoms than others. Researchers analyzed genetic variants and compared them with clinical information and blood test results.
+**Main result**: They found that genetic variations in other genes can influence anemia severity, red blood cell destruction and the number of hospitalizations.
 
-* **4. Relationship between HBB and other genes**
-* **HBB mutation**: It is the main genetic cause of sickle cell anemia.
-* Other genes: Variations in CD36, VCAM1 and NOS3 can influence how severe the disease becomes.
-* **Importance**: Identifying the HBB mutation helps explain why the disease develops, but other genetic factors can help explain differences between patients.
+**4. Relationship between HBB and other genes**
+**HBB mutation**: It is the main genetic cause of sickle cell anemia.
+Other genes: Variations in CD36, VCAM1 and NOS3 can influence how severe the disease becomes.
+**Importance**: Identifying the HBB mutation helps explain why the disease develops, but other genetic factors can help explain differences between patients.
 
 **5. Contribution to our project**
-* This article helped us understand that the HBB mutation is not the only genetic factor that influences sickle cell anemia.
+This article helped us understand that the HBB mutation is not the only genetic factor that influences sickle cell anemia.
 We learned that other genes can affect the severity and clinical consequences of the disease.
 Although this article is not directly related to our sequence alignments, it allowed us to understand the importance of genetic variability.
 It also helped us understand why two patients with the same disease-causing mutation may experience different symptoms.
