@@ -29,6 +29,17 @@ The aim of our research is to understand the mutation in the beta-globin at chro
 
 The analysis of data sources containing nucleotide and protein sequences allowed us to identify similarities and differences between the sequences studied.
 
+Proteins:
+Structure and Sequence Analysis
+
+The primary structure of both subunits have 147 amino acids and the main annotation in the sequence is E6V. While glutamic acid is negatively charged or acidic, hydrophilic and medium size, valine doesn’t have any charge, is hydrophobic and is a non-polar aliphatic medium size amino acid.
+In regards to their angles and tortions, both subunits maintain identical main chain torsion angles across the subunit folds, position 6 maintains its -helical backbone conformation, near the N-terminus of helix A, which is where the mutation can be found.
+
+The secondary structure has 8 right handed -helices from A to H united by short inter-helical loops and no -sheets, therefore their motifs are only -. No difference was observed between both -globins in regards to this structure. (link) 
+
+As far as their tertiary and quaternary structures, they have only 1 domain which is globin, it is an all- protein fold. Hemoglobin is a heterotetramer which has 2 subunits  and 2 subunits , which form a hetero-oligomer linked by non-covalent forces. The monomers are united by hydrogen bonds which provide the alignment and structural stability and  also ionic bonds, which are crucial for the correct deoxygenated (T-state) and oxygenated (R-state) of the protein, and here is where the main difference appears. The mutation changes the electrostatic forces disturbing the overall allosteric regulation. Salt bridges are placed in the outer face of the protein while hydrophobic molecules are in the inner side of the molecule to keep the overall balance of the molecule and the environment that surrounds it, but the salt bridges between Lys132 (positive charge) and Glu7 (negative charge) are no longer possible in Hbs because Val7 has no charge and this perturbation drifts Lys132 and Val7 too apart, this makes the interaction impossible and the local peptide chain flexible and loose, weakening the salt bridges. Because Val7 has no interaction with Lys132, it will have an hydrophobic interaction with residues of the pocket ( Phe85 and Leu88). This change leads the tetramers to polymerize into stiff fibers which cause sickle-cell disease.
+
+
 ### Sequence comparison
                                           
 #### Identification and Characterization of HBB gene and protein
