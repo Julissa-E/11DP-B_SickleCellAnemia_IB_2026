@@ -166,7 +166,14 @@ Linking this with the mutant *Homo sapiens* CDS sequence, the disease-associated
 [Discuss implications, compare with existing research, and highlight limitations.]
 
 ## Conclusions
-[State the main conclusions and their significance.]
+
+This study confirms that the c.20A>T mutation in the *HBB* gene causes the p.Glu7Val amino acid substitution. This point mutation does not involve insertions or deletions and therefore preserves the reading frame and the overall alpha-helix globin fold. However, it changes the chemical properties of the protein by replacing a polar, negatively charged glutamic acid with a nonpolar, uncharged valine.
+
+Glutamic acid is hydrophilic and can participate in electrostatic interactions, whereas valine is hydrophobic. This substitution alters local molecular interactions and promotes hydrophobic interactions between neighboring hemoglobin S (HbS) molecules under deoxygenated conditions. The exposed valine residue interacts with a hydrophobic pocket on adjacent molecules, promoting HbS polymerization into rigid fibers.
+
+These fibers deform normal, biconcave red blood cells into a sickle shape. The resulting cells become less flexible and can obstruct capillaries, reducing oxygen delivery to tissues and contributing to severe pain and progressive organ damage.
+
+In conclusion, sequence alignment and structural modelling of the *HBB* gene and its encoded protein help connect genetic variation to protein-level changes and, ultimately, to the molecular mechanisms underlying sickle cell disease.
 
 ## Methods
 [Provide technical details for reproducibility: Data Sources, Implementation, Statistical Analysis.]
