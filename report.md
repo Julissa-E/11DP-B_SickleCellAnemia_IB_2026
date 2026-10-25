@@ -16,7 +16,7 @@ Sequence alignment using BLASTn between human WT and mutant coding DNA sequences
 In summary, our findings show that position 7 is strictly conserved across species because surface residues play a critical functional role. The p.Glu7Val mutation does not disrupt individual protein folding, but drastically reduces hemoglobin solubility, leading to red blood cell sickling. This illustrates how a single-nucleotide change can cause severe structural disease and proves the value of BLAST tools in clinical genetics.
 
 ## Keywords
-`Sickle Cell Anemia`, `SCA`, `Hemoglobin`, `HBB`, `HbS`
+`Sickle Cell Anemia`, `Hemoglobin`, `HBB`, `HbS`
 
 ## Background
 Part of background
@@ -229,7 +229,9 @@ For protein:
 Amino acid sequence data for human beta-globin (HBB) was retrieved from the UPC Fasta File (Accession: P68871). Three-dimensional atomic coordinates for wild-type human deoxyhemoglobin (HbA) and mutant sickle cell hemoglobin (HbS) were obtained from the RCSB Protein Data Bank ID: 2hhb for and ID: 2hbs, respectively. Sequence and Structural Analysis Primary sequence alignments and mutation mapping (Glu6Val), taking into account that the numbering begins after the first amino acid of the sequence which is methionine, were performed to compare sidechain physico-chemical property transitions, for this purpose UniProtKB ID: P68871 was used for -globin subunit. Backbone torsion angles (Φ, Ψ, ω) and Ramachandran plot distributions were evaluated to assess secondary structure stability across individual subunits (Harrington et al.,1997). Structural superimposition and surface accessibility analyses were conducted using molecular 3D visualization software PyMOL, based on  crystallographic information obtained from PDB’s asymmetric unit,an x-ray diffraction crystal of 1.74 Å high resolution, to analyze non-covalent interactions and hydrophobic surface exposure at position 6, obtaining an RMSD of 0.266 Å as shown in figure #.
 
 ## Abbreviations
+* **SCA:** Sickle Cell Anemia
 * **AI:** Artificial Intelligence
+
 
 ## Declarations
 * **Availability of data and materials:** [Statement on repository/access]
