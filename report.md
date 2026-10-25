@@ -190,62 +190,7 @@ Some protein positions remain conserved during evolution because they are essent
 
 Linking this with the mutant *Homo sapiens* CDS sequence, the disease-associated variant is located at a conserved position in the protein sequence. The alignment shows that Glutamic acid (Glu) at position 7 is conserved across *Homo sapiens*, *Pan troglodytes*, and *Equus caballus*. This aminoacid is located on the surface of the beta-globin protein, is negatively charged and hydrophilic. In the mutant variant that causes the sickle cell anemia, Glutamic acid is replaced by Valine (Val), which is neutral and hydrophobic. This substitution, as said earlier, changes the interactions that take place at this position and promotes the aggregation of deoxygenated HbS molecules.
 
-
-
-### Sickle Cell Anemia in humans
-[The beta-globin, which is made by the gene HBB, is a subunit of a larger protein called hemoglobin, that contains 147 amino acids (reference to the sequence in whichever file is located), located inside the red blood cells. It is  involved in the transport of oxygen from the lungs to other tissues around the body. 
-For infants through adults, the hemoglobin consists of four protein subunits: Two beta-globins and two alpha globins. All of these subunits are bound to an iron-containing molecule called heme and consequently each heme can bind to one oxygen molecule.  (1)
-
-(Include information about the other mutation that is synonymous but not affecting) The focus of our research is the impact the mutation has in the beta-globin subunit when the gene transcription fails at chromosome 11. When this scenario occurs, the coding of the amino acid is affected therefore in the sequence at position 6, instead of obtaining a glutamic acid, there is a valine, E6V.
-
-The change in the sequence of these amino acids has a great impact on the structure, charge, interactions with other molecules, size and resulting functions of the protein.
-
-Here is a detailed chart with the main differences between the hemoglobin beta-subunit and mutant HBs.
-### Comparative Analysis: Normal Human Beta-Globin Subunit (HBB) vs. Sickle Cell Beta-Globin Subunit (HbS)
-
 ---
-
-#### Primary & Secondary Structure Organization
-
-| Feature / Question | Wild-Type Beta Subunit ($\text{HBB}$ / $\text{HbA}$) | Sickle Cell Beta Subunit ($\text{HbS}$) |
-| :--- | :--- | :--- |
-| **Primary Structure & Sidechain Properties** | **147 amino acids** (mature chain). Position 6: **Glutamic Acid ($\text{Glu} / \text{E}$)** — Charged/Acidic, hydrophilic. Contains non-polar ($\text{Val}, \text{Leu}$), polar ($\text{Ser}, \text{Thr}$), charged ($\text{Lys}, \text{Asp}$), and atypical residues ($\text{Gly}, \text{Pro}, \text{Cys}$). | **147 amino acids** (mature chain). Position 6: **Valine ($\text{Val} / \text{V}$)** ($\text{Glu6Val}$) — Hydrophobic, non-polar aliphatic. All other 146 amino acids and sidechain categories are identical. |
-| **Dihedral Angles ($\phi, \psi, \omega$) & Ramachandran Plot** | $\omega \approx 180^\circ$ (trans peptide bond). $\approx 75-80\%$ of residues fall into the **right-handed $\alpha$-helix region** ($\phi \approx -60^\circ, \psi \approx -45^\circ$). Inter-helical loops show variable angles; $\text{Gly}$/$\text{Pro}$ occupy unique flex/kink regions. | Identical mainchain torsion angles ($\phi, \psi, \omega$) across the subunit fold. Position 6 retains its $\alpha$-helical backbone conformation near the N-terminus of Helix A. |
-| **Secondary Structure Elements** | Composed of **8 right-handed $\alpha$-helices** (helices A through H) connected by short inter-helical loops and turns. No $\beta$-sheets or $\beta$-strands present. | Composed of the same **8 right-handed $\alpha$-helices** (helices A through H) and loop connections. |
-| **Supersecondary Motifs** | Consists of **$\alpha$-$\alpha$ structural motifs** (helix-turn-helix packing arrangements that enclose the hydrophobic heme pocket). Lacks $\beta$-hairpins, meanders, or $\beta$-$\alpha$-$\beta$ crossovers. | Identical **$\alpha$-$\alpha$ structural motifs**. |
-
----
-
-#### Tertiary & Quaternary Structure
-
-| Feature / Question | Wild-Type Beta Subunit ($\text{HBB}$ / $\text{HbA}$) | Sickle Cell Beta Subunit ($\text{HbS}$) |
-| :--- | :--- | :--- |
-| **Tertiary Domains** | Single-domain protein subunit consisting of a single compact **Globin domain**. | Single-domain protein subunit consisting of a single compact **Globin domain**. |
-| **Quaternary Structure & Subunit Composition** | Assembles with two $\alpha$-globin chains ($\text{HBA}$) to form a **hetero-oligomer** ($\alpha_2\beta_2$). | Assembles with two $\alpha$-globin chains ($\text{HBA}$) to form a **hetero-oligomer** ($\alpha_2\beta_2^S$). Under deoxygenation, tetramers associate into **supramolecular polymer fibers**. |
-| **Type of Oligomer** | **Tetramer** ($\alpha_2\beta_2$ functional hemoglobin unit). | **Tetramer** ($\alpha_2\beta_2^S$) at normal physiological state; forms long **14-strand helical fibers/polymers** upon deoxygenation. |
-| **Protein Morphological Type** | **Globular protein** (compact spherical shape soluble in aqueous cytoplasm). | Individual tetramers are **globular**; polymerizes into **fibrous assemblies** inside red blood cells when deoxygenated. |
-
----
-
-#### Principles of Architecture & Stabilizing Forces
-
-| Feature / Question | Wild-Type Beta Subunit ($\text{HBB}$ / $\text{HbA}$) | Sickle Cell Beta Subunit ($\text{HbS}$) |
-| :--- | :--- | :--- |
-| **Non-Covalent Stabilizing Forces** | Core stabilized by the **hydrophobic effect**. Internal hydrogen bonds stabilize the $\alpha$-helices. Salt bridges and electrostatic interactions stabilize tertiary/quaternary interfaces (e.g., $\text{BPG}$ binding). | Identical internal non-covalent forces. Additionally, deoxygenation exposes hydrophobic $\text{Val6}$, which forms **inter-tetramer hydrophobic interactions** with a pocket ($\text{Phe85}, \text{Leu88}$) on an adjacent $\beta$-chain. |
-| **Covalent Stabilizing Interactions** | **None.** No intramolecular or intermolecular disulfide bridges ($-\text{S}-\text{S}-$) exist in functional adult hemoglobin. | **None.** No disulfide bridges are involved in subunit folding or polymer fiber formation. |
-| **Core vs. Surface Residue Distribution** | Densely packed **hydrophobic core** ($\text{Leu}, \text{Val}, \text{Ile}, \text{Phe}$) surrounding the heme group. Charged ($\text{Glu}, \text{Lys}, \text{Arg}$) and polar residues exposed on the hydrophilic surface. $\text{Glu6}$ is fully exposed. | Hydrophobic core and overall surface charge distribution are identical, **except at position 6**, where a non-polar **Valine** is pathologically exposed on the outer surface. |
-
----
-
-#### SCOP Structural Classification
-
-| Feature / Question | Wild-Type Beta Subunit ($\text{HBB}$ / $\text{HbA}$) | Sickle Cell Beta Subunit ($\text{HbS}$) |
-| :--- | :--- | :--- |
-| **SCOP Class** | **All $\alpha$-proteins** | **All $\alpha$-proteins** |
-| **SCOP Fold** | **Globin-like** (8-helix bundle surrounding a heme prosthetic group) | **Globin-like** |
-| **SCOP Superfamily** | **Globins** | **Globins** |
-| **SCOP Family** | **Globin** (PDB: `2HHB`, UniProt: `P68871`) | **Globin** (PDB: `2HBS`, UniProt: `P68871` variant `VAR_002863`) |
-
 ### [Subheading Example 2]
 [Text for findings...]
 
