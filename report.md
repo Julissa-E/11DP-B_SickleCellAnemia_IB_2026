@@ -205,6 +205,11 @@ Linking this with the mutant *Homo sapiens* CDS sequence, the disease-associated
 
 For The BLAST searches we used the selected algorithms and parameters for nucleotide and protein sequence comparisons. With The resulting alignments we evaluated the sequence identity, query coverage, E-values, substitutions, gaps, and conserved regions.
 
+For protein:
+
+Amino acid sequence data for human beta-globin (HBB) was retrieved from the UPC Fasta File (Accession: P68871). Three-dimensional atomic coordinates for wild-type human deoxyhemoglobin (HbA) and mutant sickle cell hemoglobin (HbS) were obtained from the RCSB Protein Data Bank ID: 2hhb for and ID: 2hbs, respectively. Sequence and Structural Analysis Primary sequence alignments and mutation mapping (Glu6Val), taking into account that the numbering begins after the first amino acid of the sequence which is methionine, were performed to compare sidechain physico-chemical property transitions, for this purpose UniProtKB ID: P68871 was used for -globin subunit. Backbone torsion angles (Φ, Ψ, ω) and Ramachandran plot distributions were evaluated to assess secondary structure stability across individual subunits (Harrington et al.,1997). Structural superimposition and surface accessibility analyses were conducted using molecular 3D visualization software PyMOL, based on  crystallographic information obtained from PDB’s asymmetric unit,an x-ray diffraction crystal of 1.74 Å high resolution, to analyze non-covalent interactions and hydrophobic surface exposure at position 6, obtaining an RMSD of 0.266 Å as shown in figure #.
+
+
 ### 1.Sequence Identification Using BLAST
 To identify and verify the nucleotide and protein sequences associated with sickle cell anemia, we used the Basic Local Alignment Search Tool (BLAST), available through the National Center for Biotechnology Information (NCBI).First, we analyzed the wild-type coding DNA sequence (WT CDS) and the corresponding wild-type protein sequence of the HBB gene, which encodes hemoglobin subunit beta.
 We used BLAST to verify the identity of the sequences by comparing them with sequences available in the NCBI databases. We examined the gene name, chromosome location, sequence identity, query coverage, and E-value to determine whether the sequences corresponded to the HBB gene.
