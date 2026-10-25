@@ -54,7 +54,8 @@ Using BLAST, we compared the wild type (WT) Coding DNA Sequence (CDS) with the p
                           
 #### Comparison of Wild Type and Mutant CDS and Protein sequences 
 ##### Comparison of Coding DNA Sequences 
-After confirming the match, we compared the Wild type (WT) CDS, with the Muatnt CDS. We assured that the Mutant CDS corresponded to the same gene as the Wild type CDS, sharing both the same locus and gene name. However, differences were observed in their sequence alignment results;
+The BLAST results comparing the Wild type CDS with the Mutant one showed that the mutant sequence shared a 99.55% of identity with the Wild Type and an E-value of 0.0. After confirming the match, we compared the Wild type (WT) CDS, with the Muatnt CDS. We assured that the Mutant CDS corresponded to the same gene as the Wild type CDS, sharing both the same locus and gene name. However, differences were observed in their sequence alignment results;
+
 
 ###### Wild Type (WT) CDS
 >SCA_CDS_WT
@@ -76,17 +77,8 @@ AACCTCAAGGGCACCTTTGCCACACTGAGTGAGCTGCACTGTGACAAGCTGCACGTGGATCCTGAGAACTTCAGGCTCCT
 GGGCAACGTGCTGGTCTGTGTGCTGGCCCATCACTTTGGCAAAGAATTCACCCCACCAGTGCAGGCTGCCTATCAGAAAG
 TGGTGGCTGGTGTGGCTAATGCCCTGGCCCACAAGTATCACTAA
 
-The table illustrates the difference in the BLAST results comparing the Wild type CDS with the Mutant one:
-
-| Variant | Coverage | Identity | E-value |
-| --- | --- | --- | --- |
-| WTF | 100% | 100% | 0.0 |
-| Mutant | 100% | 99.55% | 0.0 |
-
-
-
 #### Comparison of protein sequences
-Finally, we compared the Wild type protein sequence with the Mutant protein sequence. We assured that both sequences were coded from the same gene, HBB, and had the same locus. Nevertheless, their sequence alignment results showed some differences; 
+The BLAST results of this search showed that the Mutant protein sequence shared a 99.32% of identity with the Wild Type one. Comparing the Wild type protein sequence with the Mutant protein sequence. We assured that both sequences were coded from the same gene, HBB, and had the same locus. Nevertheless, their sequence alignment results showed some differences; 
 
 ###### Wild type (WT) Protein
 >SCA_protein_WT
@@ -98,16 +90,9 @@ NLKGTFATLSELHCDKLHVDPENFRLLGNVLVCVLAHHFGKEFTPPVQAAYQKVVAGVANALAHKYH
 MVHLTPVEKSAVTALWGKVNVDEVGGEALGRLLVVYPWTQRFFESFGDLSTPDAVMGNPKVKAHGKKVLGAFSDGLAHLD
 NLKGTFATLSELHCDKLHVDPENFRLLGNVLVCVLAHHFGKEFTPPVQAAYQKVVAGVANALAHKYH
 
-The table illustrates the differences obtained after the BLAST search, comparing both protein sequences- 
-
-| Variant | Coverage | Identity | E-value |
-| --- | --- | --- | --- |
-| WTF | 100% | 100% | $5 \times 10^{-103}$ |
-| Mutant | 100% | 99.32% | $5 \times 10^{-102}$ |
-
-
 #### Comparison of Wild type sequence with homologs sequences
 ##### Assigned Species: *Equus caballus*
+The BLAST search showed that the *Equus caballus* CDS shared an identity of 87% with the *Homo sapines* one and a 83.67% with the protein sequence, while the *Pan troglodytes* shared an identity of 99.84% with the Wild type CDS and a 100% with the protein sequence. 
 
 ###### DNA Sequence
 >NM_001164018.1 Equus caballus hemoglobin, beta (HBB), mRNA
@@ -118,18 +103,10 @@ AACCTCAAGGGCACCTTTGCTGCGCTGAGTGAGCTGCACTGTGACAAGCTGCACGTGGATCCTGAGAACTTCAGGCTCCT
 GGGCAACGTGCTGGTTGTTGTGCTGGCTCGCCACTTTGGCAAGGATTTCACCCCAGAGTTGCAGGCTTCCTATCAAAAGG
 TGGTGGCTGGTGTGGCCAATGCACTGGCCCACAAATACCACTGA
 
-| Gene | Accession | Coverage | Identity | E-value |
-| --- | --- | --- | --- | --- |
-| **HBB** | `NM_001164018.1` | 70% | 87% | $2 \times 10^{-138}$ |
-
 ###### Protein sequence
 >NP_001157490.1 hemoglobin subunit beta [Equus caballus]
 MVQLSGEEKAAVLALWDKVNEEEVGGEALGRLLVVYPWTQRFFDSFGDLSNPGAVMGNPKVKAHGKKVLHSFGEGVHHLD
 NLKGTFAALSELHCDKLHVDPENFRLLGNVLVVVLARHFGKDFTPELQASYQKVVAGVANALAHKYH
-
-| Gene | Accession | Coverage | Identity | E-value |
-| --- | --- | --- | --- | --- |
-| **HBB** | `NP_001157490.1` | 100% | 83.67% | $7 \times 10^{-80}$ |
 
 
 ##### Other Homolog Species: *Pan Troglodytes*
@@ -145,19 +122,10 @@ GTGCTGGCCCATCACTTTGGCAAAGAATTCACCCCACCAGTGCAGGCTGCCTATCAGAAAGTGGTGGCTGGTGTGGCTAA
 TGCCCTGGCCCACAAGTATCACTAAGCTCGCTTTCTTGCTGTCCAATTTCTATTAAAGGTTCCTTTGTTCCCTAAGTCCA
 ACTACTAAACTGGGGGATATTATGAAGGGCCTTGAGCATCTGGATTCTGCCTAATAAAAAACATTTATTTTCATTGCAA
 
-| Gene | Accession | Coverage | Identity | E-value |
-| --- | --- | --- | --- | --- |
-| **HBB** | `XM_508242.5` | 100% | 99.84% | 0.0 |
-
 ###### Protein Sequence
 >XP_508242.1 hemoglobin subunit beta [Pan troglodytes]
 MVHLTPEEKSAVTALWGKVNVDEVGGEALGRLLVVYPWTQRFFESFGDLSTPDAVMGNPKVKAHGKKVLGAFSDGLAHLD
 NLKGTFATLSELHCDKLHVDPENFRLLGNVLVCVLAHHFGKEFTPPVQAAYQKVVAGVANALAHKYH
-
-| Gene | Accession | Coverage | Identity | E-value |
-| --- | --- | --- | --- | --- |
-| **HBB** | `XP_508242.1` | 100% | 100% | $2 \times 10^{-106}$ |
-
 
 ### Sequence alignment
 #### Wild type (WT) with mutant
