@@ -2,7 +2,7 @@
 
 ***Homo sapiens and Equus Caballus protein backbone superposition*** 
 
-**Note.** 3D image of Homo sapiens and Equus Caballus protein backbone superposition with white segments meaning that they are perfectly superposed and red segments meaning they are separated in space and badly aligned. Yellow segments identify regions that were ignored during superposition.
+**Note.** 3D image of *Homo sapiens* and *Equus Caballus* protein backbone superposition with white segments meaning that they are perfectly superposed and red segments meaning they are separated in space and badly aligned. Yellow segments identify regions that were ignored during superposition.
 
 
 
