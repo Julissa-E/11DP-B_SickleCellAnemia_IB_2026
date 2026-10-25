@@ -199,6 +199,7 @@ Amino acid sequence data for human beta-globin (HBB) was retrieved from the UPC 
 ## Abbreviations
 * **SCA:** Sickle Cell Anemia
 * **AI:** Artificial Intelligence
+* **WT:** Wild-type
 
 
 ## Declarations
