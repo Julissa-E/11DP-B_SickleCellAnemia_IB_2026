@@ -11,8 +11,8 @@
 ---
 
 ## Abstract
-Sickle Cell Anemia (SCA) is a hereditary hematological disorder caused by mutations in the HBB gene, which encodes the hemoglobin subunit beta. Although the molecular etiology of SCA is classically attributed to a specific missense mutation, comprehensive bioinformatics evaluations comparing nucleotide variations, structural changes, and evolutionary conservation remain vital for understanding phenotype severity and sequence constraints. This study aims to characterize the human wild-type (WT) and mutant HBB sequences using comparative bioinformatics tools. 
-Sequence alignment using BLASTn between human WT and mutant coding DNA sequences (CDS) revealed two single nucleotide substitutions: a synonymous mutation (c.9TC>C, preserving Histidine) and a missense mutation (c.20A>T). Protein alignment (BLASTp) confirmed that c.20A>T induces a p.Glu7Val change (Glu6Val in mature β-globin), substituting a polar, hydrophilic glutamic acid with a non-polar, hydrophobic valine on the protein surface. Multi-species comparison against Pan troglodytes (100% protein identity) and Equus caballus (83.67% protein identity) demonstrated that position 7, alongside key functional residues such as the distal (His63) and proximal (His92) histidines, is strictly conserved throughout evolution. Structural modeling analysis showed that while secondary and tertiary structures remain intact, the exposed hydrophobic Val7 residue alters quaternary interactions, driving pathological polymerisation of deoxygenated HbS molecules into rigid fibers. 
+Sickle Cell Anemia (SCA) is a hereditary hematological disorder caused by mutations in the HBB gene, which encodes the hemoglobin subunit beta. Although the molecular etiology of SCA is classically attributed to a specific missense mutation, comprehensive bioinformatics evaluations comparing nucleotide variations, structural changes, and evolutionary conservation remain vital for understanding phenotype severity and sequence constraints. This study aims to characterize the human wild type (WT) and mutant HBB sequences using comparative bioinformatics tools. 
+Sequence alignment using BLASTn between human WT and mutant coding DNA sequences (CDS) revealed two single nucleotide substitutions: a synonymous mutation (c.9TC>C, preserving Histidine) and a missense mutation (c.20A>T). Protein alignment (BLASTp) confirmed that c.20A>T induces a p.Glu7Val change, substituting a polar, hydrophilic glutamic acid with a non-polar, hydrophobic valine on the protein surface. Multispecies comparison against Pan troglodytes (a 100% protein identity) and Equus caballus (83.67% protein identity) demonstrated that position 7, alongside key functional residues such as the distal (His63) and proximal (His92) histidines, is strictly conserved throughout evolution. Structural modeling analysis showed that while secondary and tertiary structures remain intact, the exposed hydrophobic Val7 residue alters quaternary interactions, driving pathological polymerisation of deoxygenated HbS molecules into rigid fibers. 
 In summary, our findings show that position 7 is strictly conserved across species because surface residues play a critical functional role. The p.Glu7Val mutation does not disrupt individual protein folding, but drastically reduces hemoglobin solubility, leading to red blood cell sickling. This illustrates how a single-nucleotide change can cause severe structural disease and proves the value of BLAST tools in clinical genetics.
 
 ## Keywords
@@ -151,7 +151,7 @@ The nucleotide variatons among the three species included substitutions and gaps
 
 ###### Protein sequences
 The protein sequence alignment between the three species revealed highly conserved regions among them. The *Pan trglodytes* and the *Homo sapiens* protein sequences are identical across the 147 aminoacids analyzed, showing no differences. The *Equus Caballus* sequence also shares many conserved aminoacids with the *Homo sapiens* sequence, although several substitutions are observed.
-Not all nucleotide sequence variants between result in aminoacid changes, because different codons can encode the same amin acid, producing synonymous substitutions. In the alignments, the *Homo sapiens* and *Pan troglodytes* CDS sequences show some nucleotide differences, while their protein sequences remain identical.
+Not all nucleotide sequence variants between result in aminoacid changes, because different codons can encode the same amino acid, producing synonymous substitutions. In the alignments, the *Homo sapiens* and *Pan troglodytes* CDS sequences show some nucleotide differences, while their protein sequences remain identical.
 
 The three species appear to be more similar at the protein level than at the CDS level. This is because some nucleotide substitutions are synonymous and do not change the encoded aminoacid. Therefore, we can identify more differences in the DNA sequences that do not always produce differences in the protein sequences.
 Some protein positions remain conserved during evolution because they are essential for the protein's structure and function. In our sequence alignment, we identified two conserved Histidine residues at p.64 and p.93 corresponding to positions p.63 and p.92 in mature beta-globin, respectively. These amino acids are important for the Hemoglobin function. The distal Histidine (His63 in mature beta-globin) helps stabilize oxygen binding, while the proximal Histidine (His92 in mature beta-globin) binds directly to the iron of the heme group. Changes in these positions could affect the normal function of hemoglobin, which explains why tend to remain conserved during evolution.
@@ -199,7 +199,8 @@ Amino acid sequence data for human beta-globin (HBB) was retrieved from the UPC 
 ## Abbreviations
 * **SCA:** Sickle Cell Anemia
 * **AI:** Artificial Intelligence
-* **WT:** Wild-type
+* **WT:** Wild Type
+* **CDS:** Coding sequence
 
 
 ## Declarations
