@@ -83,7 +83,6 @@ This document contains the scientific articles and other sources used in our pro
 * **Source:** PubMed
 * **Identifier:** PMID: 38253605
 * **Source Links:**
-  * [DOI Journal Link](10.1038/s41598-024-52476-8)
   * [PubMed Link](https://pmc.ncbi.nlm.nih.gov/articles/PMC10803371/)
     
  
