@@ -85,20 +85,7 @@ This document contains the scientific articles and other sources used in our pro
 * **Source Links:**
   * [PubMed Link](https://pmc.ncbi.nlm.nih.gov/articles/PMC10803371/)
     
- 
-
-## 2. Other Sources
-
-### Source 1
-
-* **UniProtKB accession:** P68871
-* **Entry name:** HBB_HUMAN
-* **Protein:** Hemoglobin subunit beta
-* **Gene:** HBB
-* **Organism:** *Homo sapiens*
-* **UniProtKB link:** [https://www.uniprot.org/uniprotkb/P68871/entry](https://www.uniprot.org/uniprotkb/P68871/entry)
-
-### Source 2
+ ### Article 7
 
 * **Review Title:** The high resolution crystal structure of deoxyhemoglobin
 * **Author(s):** Daniel J Harrington, Kazuhiko Adachi, William E Royer
@@ -108,7 +95,7 @@ This document contains the scientific articles and other sources used in our pro
 * **Format:** PDF
 * **Source Links:** (https://www.sciencedirect.com/science/article/pii/S0022283697912535)
 
-### Source 3
+### Article 8
 
 * **Heading:** `"Hemoglobin, Sickle"[MeSH Terms]`
 * **Review Title:** Genetic variation and sickle cell disease severity: a systematic review and meta-analysis
@@ -122,7 +109,7 @@ This document contains the scientific articles and other sources used in our pro
   * [DOI Journal Link](https://doi.org/10.1001/jamanetworkopen.2023.37484)
   * [Google Scholar Link](https://scholar.google.com/scholar?as_ylo=2022&q=%22sickle+cell+disease%22++HBB+Glu6Val+mutation&hl=es&as_sdt=0,5)
  
-* ### Source 4
+* ### Article 9
 
 **PubMed Heading:** `"Hemoglobin, Sickle"[MeSH Terms]`
 * **Review Title:** From HBB Mutation to Precision Medicine: Molecular Pathogenesis, Genetic Modifiers, and Population Genetics of Sickle Cell Disease
@@ -136,3 +123,13 @@ This document contains the scientific articles and other sources used in our pro
   * [DOI Journal Link](https://doi.org/10.22178/pos.134-9)
   * [Article Link](https://pathofscience.org/index.php/ps/article/view/4036)
   * [Google Scholar Link](https://scholar.google.com/scholar?as_ylo=2022&q=%22sickle+cell+disease%22++HBB+Glu6Val+mutation&hl=es&as_sdt=0,5)
+
+
+## 2. Other Sources
+
+* **UniProtKB accession:** P68871
+* **Entry name:** HBB_HUMAN
+* **Protein:** Hemoglobin subunit beta
+* **Gene:** HBB
+* **Organism:** *Homo sapiens*
+* **UniProtKB link:** [https://www.uniprot.org/uniprotkb/P68871/entry](https://www.uniprot.org/uniprotkb/P68871/entry)
