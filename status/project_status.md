@@ -2,7 +2,7 @@
 # Project Status — Task Tracking
 
 **Project:** Sickle Cell Anemia  
-**Last updated:** 25.10.2026  
+**Last updated:** 26.10.2026  
 **Final deadline:** 26.10.2026 at 22:00
 
 ## Task Tracking
@@ -15,10 +15,10 @@
 | Create and submit the Gantt chart | Sara | 01.10 | 09.10 | 05.10 | 08.10 | 🟢 Completed | Intermediate project deliverable |
 | Analyze sequence alignment and protein structure (M4) | Martina + Julissa | 14.10 | 16.10 | 14.10 | 24.10 | 🟢 Completed | Compare reference and disease-associated sequences and structures |
 | Compare human sequences with those of at least two other species | Uma + Sara | 14.10 | 22.10 | 14.10 | 24.10 | 🟢 Completed | Analyze sequence conservation and biological implications |
-| Explain physiological effects and review scientific accuracy | Maria Dolça | 16.10 | 20.10 | 21.10 | 25.10 | 🟡 In progress | Link molecular changes to red blood cell shape, function and symptoms |
-| Integrate findings and write the final report (M5) | Uma + all team members | 18.10 | 25.10 | 08.10 | 26.10 | 🟡 In progress | Integrate research, figures, citations and bioinformatics results |
-| Review and update the Project Status document | Martina + all team members | 17.09 | 26.10 | 08.10 | 26.10 | 🟡 In progress | Discuss the document on 22.10 and maintain it until submission |
-| Final quality check and project submission (M6) | Maria Dolça + all team members | 25.10 | 26.10 | 25.10 | 26.10 | ⚪ Not started | Final deadline: 26.10 at 22:00 |
+| Explain physiological effects and review scientific accuracy | Maria Dolça | 16.10 | 20.10 | 21.10 | 25.10 | 🟢 Completed | Link molecular changes to red blood cell shape, function and symptoms |
+| Integrate findings and write the final report (M5) | Uma + all team members | 18.10 | 25.10 | 08.10 | 26.10 | 🟢 Completed | Integrate research, figures, citations and bioinformatics results |
+| Review and update the Project Status document | Martina + all team members | 17.09 | 26.10 | 08.10 | 26.10 | 🟢 Completed | Discuss the document on 22.10 and maintain it until submission |
+| Final quality check and project submission (M6) | Maria Dolça + all team members | 25.10 | 26.10 | 25.10 | 26.10 | 🟢 Completed| Final deadline: 26.10 at 22:00 |
 
 ## Status Legend
 
