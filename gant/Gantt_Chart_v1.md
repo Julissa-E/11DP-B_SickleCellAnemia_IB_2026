@@ -56,26 +56,26 @@ Analyse the genetic and molecular basis of Sickle Cell Anemia using bioinformati
 
 | WBS Number | Task Title | Phase | Task Owner | Estimated Start Date | Real Start Date | Due Date | Duration (Days) | % Complete |
 | :--- | :--- | :---: | :--- | :---: | :---: | :---: | :---: | :---: |
-| **1** | **WP1: Project Setup & managment** | **PHASE ONE** | | 2026-09-24 | 2026-10-01 | 2026-10-28 |23 |85% |
+| **1** | **WP1: Project Setup & managment** | **PHASE ONE** | | 2026-09-24 | 2026-10-01 | 2026-10-26 | 25 |
 | **1.1** | Git Hub Repository Setup & Structuring | PHASE ONE | Martina S | 2026-09-21 | 2026-10-01 | 2026-10-06 | 5 | 100% |
 | **1.2** | Initial Gantt Chart creation | PHASE ONE | Martina S & Sara D | 2026-09-21 | 2026-10-05 | 2026-10-05 | 0 | 100% |
-| **1.3** | Live Project Status Tracking | PHASE ONE | Martina S & Maria Dolça | 2026-09-21 | 2026-10-05 | 2026-10-28 | 23 | 60% |
-| **2** | **WP2: Molecular Cause & Healthy State** | **PHASE TWO** | | 2026-09-28 | 2026-10-07 | 2026-10-15 | | |
-| **2.1** | Gene/protein Identification & Databases | PHASE TWO | Sara D | 2026-10-07 | 2026-10-07 | 2026-10-10 | 3 | 65% |
+| **1.3** | Live Project Status Tracking | PHASE ONE | Martina S & Maria Dolça | 2026-09-21 | 2026-10-05 | 2026-10-26 | 21 | 80% |
+| **2** | **WP2: Molecular Cause & Healthy State** | **PHASE TWO** | | 2026-09-28 | 2026-10-07 | 2026-10-15 | 8 | 
+| **2.1** | Gene/protein Identification & Databases | PHASE TWO | Sara D | 2026-10-07 | 2026-10-07 | 2026-10-10 | 3 | 100% |
 | **2.2** | Reference (Healthy) Gene and Protein Sequence Analysis | PHASE TWO | Sara D | 2026-10-09 | 2026-10-09 | 2026-10-13 | 4 | 100% |
-| **2.3** | Initial Structure Retrieval & Gene Context | PHASE TWO | Sara D | 2026-10-11 | 2026-10-11 | 2026-10-15 | 4 | 90% |
-| **2.4** | 3D Structural Analysis of reference protein | PHASE TWO | Julissa | 2026-10-11 | 2026-10-11 | 2026-10-15 | 4 | 50% |
-| **3** | **WP3: Disease State & Functional Impact** | **PHASE THREE** | | 2026-10-12 | 2026-10-12 | 2026-10-20 | |50% |
-| **3.1** | Pathogenic Variant/Mutation Mapping | PHASE THREE | Julissa | 2026-10-12 | 2026-10-12 | 2026-10-16 | 4 | 80% |
-| **3.2** | Sequence & Structural Comparison (Healthy vs. Disease) | PHASE THREE | Julissa | 2026-10-14 | 2026-10-8 | 2026-10-15 | 4 | 100% |
+| **2.3** | Initial Structure Retrieval & Gene Context | PHASE TWO | Sara D | 2026-10-11 | 2026-10-11 | 2026-10-15 | 4 | 100% |
+| **2.4** | 3D Structural Analysis of reference protein | PHASE TWO | Julissa | 2026-10-11 | 2026-10-11 | 2026-10-15 | 4 | 100% |
+| **3** | **WP3: Disease State & Functional Impact** | **PHASE THREE** | | 2026-10-12 | 2026-10-12 | 2026-10-20 | 8 |
+| **3.1** | Pathogenic Variant/Mutation Mapping | PHASE THREE | Julissa | 2026-10-12 | 2026-10-15 | 2026-10-18 | 3 | 80% |
+| **3.2** | Sequence & Structural Comparison (Healthy vs. Disease) | PHASE THREE | Julissa | 2026-10-14 | 2026-10-8 | 2026-10-18 | 10 | 100% |
 | **3.3** | Physiological Impact & Patient Functional Analysis | PHASE THREE | Maria Dolça | 2026-10-16 | 2026-10-16 | 2026-10-20 | 4 | 80% |
-| **4** | **WP4: Interspecies Comparative Genomics** | **PHASE THREE** | | 2026-10-07 | 2026-10-14 | | |60% |
-| **4.1** | Sequence Retrieval for Human + 2 Species | PHASE THREE | Uma S | 2026-10-14 | 2026-10-14 | 2026-10-17 | 3 | 100% |
-| **4.2** | Multiple Sequence Alignment (MSA) & Conservation Analysis | PHASE THREE | Uma S | 2026-10-17 | 2026-10-17 | 2026-10-20 | 3 | 100% |
-| **4.3** | Evolutionary & Biological Implications Synthesis | PHASE THREE | Maria Dolça| 2026-10-19 | 2026-10-19 | 2026-10-22 | 3 | 50% |
-| **5** | **WP5: BMC Manuscript Writing & Final Delivery** | **PHASE FOUR** |All | 2026-10-18 | 2026-10-18 | 2026-10-26 |23 |40% |
-| **5.1** | Main Report Drafting (.md in BMC Format) | PHASE FOUR | Maria Dolça | 2026-10-18 | 2026-10-18 | 2026-10-25 | 7 | 50% |
-| **5.2** | References PDF Compilation (references/ folder) | PHASE FOUR | All | 2026-10-20 | 2026-10-20 | 2026-10-26 | 6 | 50% |
-| **5.3** | Final Commit, Review & Submission Deadline | PHASE FOUR | All | 2026-10-26 | 2026-10-25 | 2026-10-26 | 2 | 25% |
+| **4** | **WP4: Interspecies Comparative Genomics** | **PHASE THREE** | 2026-10-07 | 2026-10-14 | 2026-10-19 | 5 | 
+| **4.1** | Sequence Retrieval for Human + 2 Species | PHASE THREE | Uma S | 2026-10-08 | 2026-10-14 | 2026-10-17 | 3 | 100% |
+| **4.2** | Multiple Sequence Alignment (MSA) & Conservation Analysis | PHASE THREE | Uma S | 2026-10-17 | 2026-10-15 | 2026-10-19 | 4 | 100% |
+| **4.3** | Evolutionary & Biological Implications Synthesis | PHASE THREE | Maria Dolça| 2026-10-08 | 2026-10-19 | 2026-10-15 | 4 | 100% |
+| **5** | **WP5: BMC Manuscript Writing & Final Delivery** | **PHASE FOUR** | All | 2026-10-18 | 2026-10-15 | 2026-10-26 | 11 |
+| **5.1** | Main Report Drafting (.md in BMC Format) | PHASE FOUR | Maria Dolça | 2026-10-18 | 2026-10-15 | 2026-10-26 | 11 | 80% |
+| **5.2** | References PDF Compilation (references/ folder) | PHASE FOUR | All | 2026-10-20 | 2026-10-22 | 2026-10-26 | 4 | 80% |
+| **5.3** | Final Commit, Review & Submission Deadline | PHASE FOUR | All | 2026-10-26 | 2026-10-26 | 2026-10-26 | 0 | 60% |
 
 ---
