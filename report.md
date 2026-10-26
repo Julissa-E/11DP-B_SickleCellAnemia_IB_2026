@@ -99,7 +99,10 @@ Linking this with the mutant *Homo sapiens* CDS sequence, the disease-associated
 ---
 
 ## Discussion
-[Discuss implications, compare with existing research, and highlight limitations.]
+This study demonstrates how a single-nucleotide mutation (c.20A>T) in the HBB gene drives Sickle Cell Anemia (SCA) pathogenesis without altering the core globin fold. Sequence alignment confirmed that the reading frame is preserved alongside a silent mutation (c.9T>C). However, the p.Glu6Val substitution replaces a surface-exposed, hydrophilic Glutamic acid with a hydrophobic Valine, disrupting a stabilizing salt bridge with Lys132. In deoxygenated states, exposed Val6 binds a hydrophobic pocket (Phe85/Leu88) on adjacent tetramers, triggering HbS polymerization into rigid fibers that change the characteristic sickling of red blood cells. (Bishop & Ferrone, 2023; Harrington et al., 1997).
+Evolutionary comparison highlights strict purifying selection at critical functional nodes. The 100% amino acid identity between Homo sapiens and Pan troglodytes (RMSD=0.0 Å) reflects complete hominid conservation. Sequence alignment with Equus caballus (83.67% identity) yields a backbone RMSD of 0.83 Å demonstrating conserved secondary structure with minor spatial shifts confined to flexible loops. Crucially, position 6 and histidines (His63/His92) are strictly conserved across species, confirming their functional necessity.
+These findings align with therapeutic models like voxelotor, which stabilizes the oxygenated state to block Val6-mediated aggregation (Suhail, 2024; Berg et al., 2002). Limitations of this study include reliance on static crystal structures (PDB:2HHB, 2HBS), lack of molecular dynamics simulations to calculate binding kinetics, and a limited three-species taxon sample.
+
 
 ## Conclusions
 
