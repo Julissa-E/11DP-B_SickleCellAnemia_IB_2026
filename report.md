@@ -211,8 +211,15 @@ Amino acid sequence data for human beta-globin (HBB) was retrieved from the UPC 
 
 
 ## Declarations
-* **Availability of data and materials:** [Statement on repository/access]
-* **Authors' contributions:** [Specify roles]
+* **Availability of data and materials:**
+All data generated or analyzed are included in this report and its supplementary files in our GitHub repository (https://github.com/Julissa-E/11DP-B_SickleCellAnemia_IB_2026). In this study were analyzed publicly available datasets, the data used can be found in the UniProt Knowledgebase (https://www.uniprot.org/), NCBI GenBank (https://www.ncbi.nlm.nih.gov/), and the Protein Data Bank (PDB, https://www.rcsb.org/)
+
+* **Authors' contributions:**
+- **J.P.Espejo:** Mapping of pathogenic variants, sequence and structural comparison between healthy and disease states, 3D protein structure analysis, and physiological and patient functional impact analysis.
+- **M. Sarrias:** Project management, GitHub repository structure, workflow coordination, database management, and writing of the initial manuscript sections.
+- **S. Delcazo:** Identification and reposession of reference gene/protein data, analysis of healthy and mutant sate sequences, interspecies comaparative genomics, and multiple sequence alignment (MSA).
+- **M.D. Viella:** Physiological and patient functional impact analysis, live project status tracking, reference documentation, and manuscript editing in BMC format.
+- **U. Saltó:** Interspecies comparative genomics, sequence retrieval across species, multiple sequence alignment (MSA), conservation analysis, and database management.
 
 ## References
 
