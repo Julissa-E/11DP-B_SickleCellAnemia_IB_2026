@@ -111,7 +111,7 @@ This document contains the scientific articles and other sources used in our pro
  
 * ### Article 9
 
-**PubMed Heading:** `"Hemoglobin, Sickle"[MeSH Terms]`
+* **PubMed Heading:** `"Hemoglobin, Sickle"[MeSH Terms]`
 * **Review Title:** From HBB Mutation to Precision Medicine: Molecular Pathogenesis, Genetic Modifiers, and Population Genetics of Sickle Cell Disease
 * **Author(s):** God'sglory Ebubechukwu Ilechukwu
 * **Journal:** Path of Science: International Electronic Scientific Journal
