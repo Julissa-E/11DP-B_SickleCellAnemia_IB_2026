@@ -217,7 +217,7 @@ All data generated or analyzed are included in this report and its supplementary
 * **Authors' contributions:**
 - **J.P.Espejo:** Mapping of pathogenic variants, sequence and structural comparison between healthy and disease states, 3D protein structure analysis, and physiological and patient functional impact analysis.
 - **M. Sarrias:** Project management, GitHub repository structure, workflow coordination, database management, and writing of the initial manuscript sections.
-- **S. Delcazo:** Identification and reposession of reference gene/protein data, analysis of healthy and mutant sate sequences, interspecies comaparative genomics, and multiple sequence alignment (MSA).
+- **S. Delcazo:** Identification and reposession of reference gene/protein data, analysis of healthy and mutant sate sequences, interspecies comparative genomics, and multiple sequence alignment (MSA).
 - **M.D. Viella:** Physiological and patient functional impact analysis, live project status tracking, reference documentation, and manuscript editing in BMC format.
 - **U. Saltó:** Interspecies comparative genomics, sequence retrieval across species, multiple sequence alignment (MSA), conservation analysis, and database management.
 
@@ -245,7 +245,7 @@ All data generated or analyzed are included in this report and its supplementary
 
 ## IN-TEXT CITATIONS
 
-In-text citation: (Harrington et al. 1997), (Bishop & Ferrone, 2023; Harrington et al., 1997).
+In-text citation: (Harrington et al. 1997), (Bishop & Ferrone, 2023).
 
 
 
