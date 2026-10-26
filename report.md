@@ -213,15 +213,19 @@ Amino acid sequence data for human beta-globin (HBB) was retrieved from the UPC 
 * **Authors' contributions:** [Specify roles]
 
 ## References
-1. Van der Meer M, Velsink K, Tong WH, Schoones JW. Is There a Difference in Occurrence of Complications Between Adults With Hemoglobin SS and Hemoglobin SC Disease: An Extended Systematic Review. *European Journal of Haematology*. 2026.
 
-2. Bishop MF, Ferrone FA. The sickle cell fiber revisited. *Biomolecules*. 2023.
+1. Bishop MF, Ferrone FA. The sickle cell fiber revisited. *Biomolecules*. 2023.
 
-3. Zhai J, Papizan JB, Yao Y, Arnold ED, Yu J, Tran T, et al. A Mouse model for hemoglobin SC disease recapitulates characteristic human pathologies. *Blood Advances*. 2025.
+2. Zhai J, Papizan JB, Yao Y, Arnold ED, Yu J, Tran T, et al. A Mouse model for hemoglobin SC disease recapitulates characteristic human pathologies. *Blood Advances*. 2025.
 
-4. Ikolo B, Oyelami M, Mgbeke O, Jones K, Thomas S, Ikolo F. Sickle Cell Disease: From Ancient Origins to Modern Breakthroughs in Gene Therapy. *PubMed Central*. 2026.
+3. Ikolo B, Oyelami M, Mgbeke O, Jones K, Thomas S, Ikolo F. Sickle Cell Disease: From Ancient Origins to Modern Breakthroughs in Gene Therapy. *PubMed Central*. 2026.
 
-5. Germano I, Santos B, Delgadinho M, Ginete C, Lopes P, Arez AP, et al. Genetic Modulation of anemia severity, hemolysis level, and hospitalization rate in Angolan children with Sickle Cell Anemia. *Molecular Biology Reports*. 2022.
+4. Germano I, Santos B, Delgadinho M, Ginete C, Lopes P, Arez AP, et al. Genetic Modulation of anemia severity, hemolysis level, and hospitalization rate in Angolan children with Sickle Cell Anemia. *Molecular Biology Reports*. 2022.
 
+5. 1. Van der Meer M, Velsink K, Tong WH, Schoones JW. Is There a Difference in Occurrence of Complications Between Adults With Hemoglobin SS and Hemoglobin SC Disease: An Extended Systematic Review. *European Journal of Haematology*. 2026.
+
+## IN-TEXT CITATIONS
+
+**In-text citation: (Harrington et al. 1997)
 
 
