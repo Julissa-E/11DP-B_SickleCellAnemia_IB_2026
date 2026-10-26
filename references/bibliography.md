@@ -73,6 +73,20 @@ This document contains the scientific articles and other sources used in our pro
 * **Source Links:**
   * [DOI Journal Link](https://doi.org/10.1111/ejh.70239)
   * [PubMed Link](https://pubmed.ncbi.nlm.nih.gov/42297565/)
+ 
+   ### Article 6
+
+* **Heading:** `"The high resolution crystal structure of deoxyhemoglobin"`
+* **Review Title:** Is There a Difference in Occurrence of Complications Between Adults With Hemoglobin SS and Hemoglobin SC Disease: An Extended Systematic Review
+* **Author(s):** Daniel J Harrington, Kazuhiko Adachi, William E Royer
+* **Journal:** Journal of Molecular Biology
+* **Publication Year:** 2026 Jun 15
+* **Source:** PubMed
+* **Identifier:** PMID: 42297565
+* **Format:** PDF
+* **Source Links:**
+  * [DOI Journal Link](https://doi.org/10.1111/ejh.70239)
+  * [PubMed Link](https://pubmed.ncbi.nlm.nih.gov/42297565/)
   
 ## 2. Other Sources
 
