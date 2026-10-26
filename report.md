@@ -18,7 +18,7 @@ In summary, our findings show that position 6 is strictly conserved across speci
 Part of background
 The beta-globin, which is made by the gene HBB, is a subunit of a larger protein called hemoglobin, that contains 147 amino acids, located inside the red blood cells. It is  involved in the transport of oxygen from the lungs to other tissues around the body. 
 
-For infants through adults, the hemoglobin consists of four protein subunits: Two beta-globins and two alpha globins. All of these subunits are bound to an iron-containing molecule called heme and consequently each heme can bind to one oxygen molecule.  (1)
+For infants through adults, the hemoglobin consists of four protein subunits: Two beta-globins and two alpha globins. All of these subunits are bound to an iron-containing molecule called heme and consequently each heme can bind to one oxygen molecule.
 
 The aim of our research is to understand the mutation in the beta-globin at chromosome 11 when two HbS alleles, one from each parent, passes it on to their progeny . Studies show that when this scenario occurs, the coding of the amino acid is affected, therefore in the sequence at, position 6, instead of obtaining a glutamic acid, there is a valine (E6V) which changes some properties of the residues that will affect the overall function of such protein.
 
@@ -32,13 +32,13 @@ The analysis of data sources containing nucleotide and protein sequences allowed
 The primary structure of both subunits have 147 amino acids and the main annotation in the sequence is E6V. While glutamic acid is negatively charged or acidic, hydrophilic and medium size, valine doesn’t have any charge, is hydrophobic and is a non-polar aliphatic medium size amino acid.
 In regards to their angles and tortions, both subunits maintain identical main chain torsion angles across the subunit folds, position 6 maintains its -helical backbone conformation, near the N-terminus of helix A, which is where the mutation can be found.
 
-The secondary structure has 8 right handed -helices from A to H united by short inter-helical loops and no -sheets, therefore their motifs are only -. No difference was observed between both -globins in regards to this structure. (link) 
+The secondary structure has 8 right handed -helices from A to H united by short inter-helical loops and no -sheets, therefore their motifs are only -. No difference was observed between both -globins in regards to this structure.  
 
 As far as their tertiary and quaternary structures, they have only 1 domain which is globin, it is an all- protein fold. Hemoglobin is a heterotetramer which has 2 subunits  and 2 subunits , which form a hetero-oligomer linked by non-covalent forces. The monomers are united by hydrogen bonds which provide the alignment and structural stability and  also ionic bonds, which are crucial for the correct deoxygenated (T-state) and oxygenated (R-state) of the protein, and here is where the main difference appears. The mutation changes the electrostatic forces disturbing the overall allosteric regulation. Salt bridges are placed in the outer face of the protein while hydrophobic molecules are in the inner side of the molecule to keep the overall balance of the molecule and the environment that surrounds it, but the salt bridges between Lys132 (positive charge) and Glu6 (negative charge) are no longer possible in Hbs because Val6 has no charge and this perturbation drifts Lys132 and Val6 too apart, this makes the interaction impossible and the local peptide chain flexible and loose, weakening the salt bridges. Because Val6 has no interaction with Lys132, it will have an hydrophobic interaction with residues of the pocket ( Phe85 and Leu88). This change leads the tetramers to polymerize into stiff fibers which cause sickle-cell disease.
 
 #### Structural Classification and Comparative Analysis
 
-Analysis of both wild-type (HBB, PDB: 2HHB) and sickle cell mutant (HbS, PDB: 2HBS) beta-globin subunits confirms that both structures maintain identical high-level domain architectures under the Structural Classification of Proteins (SCOP) framework. As summarized in Table (x change later), the single amino acid substitution (Glu6Val) does not alter the overall fold classification, class, superfamily, or family assignments.
+Analysis of both wild-type (HBB, PDB: 2HHB) and sickle cell mutant (HbS, PDB: 2HBS) beta-globin subunits confirms that both structures maintain identical high-level domain architectures under the Structural Classification of Proteins (SCOP) framework. As summarized in Table (figure 3), the single amino acid substitution (Glu6Val) does not alter the overall fold classification, class, superfamily, or family assignments. 
 
 
 ### Sequence comparison
