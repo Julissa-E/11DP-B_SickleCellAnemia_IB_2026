@@ -3,11 +3,6 @@
 **Authors:** [J.P. Espejo, M. Sarrias, S. Delcazo, M.D. Viella, U. Saltó]  
 **Affiliation:** [Introduction to Bioinformatics, UPC, Barcelona, Spain]  
 
-> **Limits & Guidelines:**
-> * Maximum limit of **7 pages** or **5000 words** (whichever is shorter).
-> * References do not contribute to page or word count (more than 1 page of references is not recommended).
-> * Maximum of **5 figures or tables** must be respected and stored in the repository.
-
 ---
 
 ## Abstract
@@ -173,30 +168,30 @@ This study confirms that the c.20A>T mutation in the HBB gene induces a p.Glu7Va
 In conclusion, sequence alignment and structural modeling of HBB effectively enable us to link molecular genetic data directly with sickle cell disease pathology.
 
 ## Methods
-[Provide technical details for reproducibility: Data Sources, Implementation, Statistical Analysis.]
+### BLAST
 
 For The BLAST searches we used the selected algorithms and parameters for nucleotide and protein sequence comparisons. With The resulting alignments we evaluated the sequence identity, query coverage, E-values, substitutions, gaps, and conserved regions.
 
-### 1.Sequence Identification Using BLAST
+#### 1.Sequence Identification Using BLAST
 To identify and verify the nucleotide and protein sequences associated with sickle cell anemia, we used the Basic Local Alignment Search Tool (BLAST), available through the National Center for Biotechnology Information (NCBI).First, we analyzed the wild-type coding DNA sequence (WT CDS) and the corresponding wild-type protein sequence of the HBB gene, which encodes hemoglobin subunit beta.
 We used BLAST to verify the identity of the sequences by comparing them with sequences available in the NCBI databases. We examined the gene name, chromosome location, sequence identity, query coverage, and E-value to determine whether the sequences corresponded to the HBB gene.
 For nucleotide sequences, we used Nucleotide BLAST (BLASTn), while for amino acid sequences, we used Protein BLAST (BLASTp).
 
-### 2. Comparison Between Wild-Type and Mutant Sequences
+#### 2. Comparison Between Wild-Type and Mutant Sequences
 After identifying the sequences, we used BLAST to compare the wild-type and mutant versions of the HBB gene at both the nucleotide and protein levels. First, we performed a nucleotide sequence alignment between the wild-type coding DNA sequence (WT CDS) and the mutant coding DNA sequence (mutant CDS) using BLASTn. The alignment was examined to identify nucleotide substitutions, insertions, deletions, and possible changes in the reading frame. Next, we compared the wild-type and mutant protein sequences using BLASTp. This alignment allowed us to identify amino acid substitutions and examine differences between the protein sequences. For both comparisons, we analyzed the sequence alignments and their corresponding identity percentages, query coverage, and E-values.
 
-### 3. Identification of Homologous Sequences Across Species
+#### 3. Identification of Homologous Sequences Across Species
 To identify homologous sequences of the HBB gene in other species, we used BLAST and the NCBI sequence databases. We selected three species for comparison: Homo sapiens, Pan troglodytes, and Equus caballus.
 The human sequence was used as the reference sequence (Query), while the chimpanzee and horse sequences were introduced as subject sequences. First, we used BLASTn to compare the coding DNA sequences of the three species. The sequences were aligned to identify conserved nucleotide regions, substitutions, and gaps.
 Afterward, we used BLASTp to perform the same comparison at the protein level, using the amino acid sequences of hemoglobin subunit beta from the three species.
 The resulting alignments were examined to identify conserved amino acid regions, substitutions, and gaps.
 
-### 4. Comparison of Nucleotide and Protein Alignments
+#### 4. Comparison of Nucleotide and Protein Alignments
 Finally, we compared the nucleotide and protein sequence alignments obtained using BLAST.
 We examined the conservation patterns across the three species at both the CDS and protein levels.
 We also compared the nucleotide and amino acid variations to determine whether changes in the coding DNA sequences corresponded to changes in the protein sequences. Additionally, we examined specific amino acid positions associated with hemoglobin function and the disease-related variant identified in the human HBB gene.
 
-For protein:
+### Protein analysis 
 
 Amino acid sequence data for human beta-globin (HBB) was retrieved from the UPC Fasta File (Accession: P68871). Three-dimensional atomic coordinates for wild-type human deoxyhemoglobin (HbA) and mutant sickle cell hemoglobin (HbS) were obtained from the RCSB Protein Data Bank ID: 2hhb for and ID: 2hbs, respectively. Sequence and Structural Analysis Primary sequence alignments and mutation mapping (Glu6Val), taking into account that the numbering begins after the first amino acid of the sequence which is methionine, were performed to compare sidechain physico-chemical property transitions, for this purpose UniProtKB ID: P68871 was used for -globin subunit. Backbone torsion angles (Φ, Ψ, ω) and Ramachandran plot distributions were evaluated to assess secondary structure stability across individual subunits (Harrington et al.,1997). Structural superimposition and surface accessibility analyses were conducted using molecular 3D visualization software PyMOL, based on  crystallographic information obtained from PDB’s asymmetric unit,an x-ray diffraction crystal of 1.74 Å high resolution, to analyze non-covalent interactions and hydrophobic surface exposure at position 6, obtaining an RMSD of 0.266 Å as shown in figure #.
 
@@ -213,42 +208,3 @@ Amino acid sequence data for human beta-globin (HBB) was retrieved from the UPC 
 
 ## References
 1. Author A, Author B. Title. *BMC Bioinformatics*. Year; Vol:Pages.
-
----
-
-# Formatting & Style Guide
-
-### Mini Oxford SCIMED Reference Style Guide
-* References are listed alphabetically by author surname.
-* When there are 4 or more authors, list the first author name followed by *et al.*
-* Page spans are elided (e.g., 213–5, 137–87, 1185–2042).
-* The Latin phrase *ibid* is discouraged.
-
-#### Reference Formats
-* **Journal article:** Kennedy T, Jones R. Effect of obesity on esophageal transit. *Am J Surg* 1985;149:177–81.
-* **Book:** Long HC, Blatt MA, Higgins MC *et al.* *Medical Decision Making*. Boston: Butterworth-Heinemann, 1997.
-* **Book chapter:** Manners T, Jones R, Riley M. Relationship of overweight to hiatus hernia and reflux oesophagitis. In: Newman W (ed.), *The Obesity Conundrum*. Amsterdam: Elsevier Science, 1997, 352–74.
-* **Websites:** Public Health Laboratory Service. Antimicrobial Resistance in 2000: England and Wales. http://www.hpa.org.uk./infections/topics_az/antimicrobial_resistance/amr.pdf (7 January 2004, date last accessed).
-
-#### In-Text Citations
-* **In-text citation:** (Smith 1994)
-* **Multiple citations:** List chronologically: (Smith 2015, Wong 2015, Patel 2016)
-
-#### Quotations
-* Quotations over 4 lines should be pulled out of the text, single-spaced, and indented.
-* Use single quotation marks (`'...'`). Quotes within quotes use double quotation marks (`"..."`).
-
-#### Abbreviations
-* Define abbreviations at first mention in both the abstract and the text.
-* Shorten units of measure (e.g., `km`).
-* In running text, spell out US states. In addresses, use two-letter abbreviations.
-
-#### Spelling & Punctuation
-* Use UK spelling (`-ize` suffix) per the *Oxford English Dictionary* (https://www.oed.com/).
-* Use the Oxford/serial comma.
-* No comma after `i.e.` and `e.g.`, and place them within parentheses. Use `e.g.` instead of `eg.`.
-
-#### Numbers and Dates
-* Spell out numbers less than 10; use numerals for 10 and above.
-* Thousand separator: Use a thin space for 10 000 and above.
-* Date format: `day month year` (e.g., 23 July 2019).
