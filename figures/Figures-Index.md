@@ -18,7 +18,7 @@
 
 <img width="2000" height="962" alt="G6V superposition" src="https://github.com/user-attachments/assets/9bf0feef-d26d-4880-ba69-fd35fc1d53f2"/> 
 
-**Figure 2.**
+**Figure 3.**
 
 ***SCOP***
 
