@@ -95,4 +95,32 @@ This document contains the scientific articles and other sources used in our pro
 * **Source:** ScienceDirect
 * **Format:** PDF
 * **Source Links:** (https://www.sciencedirect.com/science/article/pii/S0022283697912535)
+
+### Source 3
+
+* **Heading:** `"Hemoglobin, Sickle"[MeSH Terms]`
+* **Review Title:** Genetic variation and sickle cell disease severity: a systematic review and meta-analysis
+* **Author(s):** JK Kirkham, JH Estepp, MJ Weiss, et al.
+* **Journal:** JAMA Network Open
+* **Publication Year:** 2023
+* **Source:** Google Scholar
+* **Identifier:** DOI: 10.1001/jamanetworkopen.2023.37484
+* **Format:** PDF
+* **Source Links:**
+  * [DOI Journal Link](https://doi.org/10.1001/jamanetworkopen.2023.37484)
+  * [Google Scholar Link](https://scholar.google.com/scholar?as_ylo=2022&q=%22sickle+cell+disease%22++HBB+Glu6Val+mutation&hl=es&as_sdt=0,5)
  
+* ### Source 4
+
+**PubMed Heading:** `"Hemoglobin, Sickle"[MeSH Terms]`
+* **Review Title:** From HBB Mutation to Precision Medicine: Molecular Pathogenesis, Genetic Modifiers, and Population Genetics of Sickle Cell Disease
+* **Author(s):** God'sglory Ebubechukwu Ilechukwu
+* **Journal:** Path of Science: International Electronic Scientific Journal
+* **Publication Year:** 2026
+* **Source:** Google Scholar
+* **Identifier:** DOI: 10.22178/pos.134-9
+* **Format:** PDF
+* **Source Links:**
+  * [DOI Journal Link](https://doi.org/10.22178/pos.134-9)
+  * [Article Link](https://pathofscience.org/index.php/ps/article/view/4036)
+  * [Google Scholar Link](https://scholar.google.com/scholar?as_ylo=2022&q=%22sickle+cell+disease%22++HBB+Glu6Val+mutation&hl=es&as_sdt=0,5)
