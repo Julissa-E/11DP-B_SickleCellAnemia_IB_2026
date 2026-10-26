@@ -1,7 +1,7 @@
 # Sickle Cell Anemia: A Bioinformatics study
 
-**Authors:** [J.P. Espejo, M. Sarrias, S. Delcazo, M.D. Viella, U. Saltó]  
-**Affiliation:** [Introduction to Bioinformatics, UPC, Barcelona, Spain]  
+**Authors:** J.P. Espejo, M. Sarrias, S. Delcazo, M.D. Viella, U. Saltó  
+**Affiliation:** Introduction to Bioinformatics, UPC, Barcelona, Spain  
 
 ---
 
@@ -15,12 +15,11 @@ In summary, our findings show that position 6 is strictly conserved across speci
 
 ## Background
 
-Part of background
 The beta-globin, which is made by the gene HBB, is a subunit of a larger protein called hemoglobin, that contains 147 amino acids, located inside the red blood cells. It is  involved in the transport of oxygen from the lungs to other tissues around the body. 
 
-For infants through adults, the hemoglobin consists of four protein subunits: Two beta-globins and two alpha globins. All of these subunits are bound to an iron-containing molecule called heme and consequently each heme can bind to one oxygen molecule.
+For infants through adults, the hemoglobin consists of four protein subunits: Two beta-globins and two alpha-globins. All of these subunits are bound to an iron-containing molecule called heme and consequently each heme can bind to one oxygen molecule.
 
-The aim of our research is to understand the mutation in the beta-globin at chromosome 11 when two HbS alleles, one from each parent, passes it on to their progeny . Studies show that when this scenario occurs, the coding of the amino acid is affected, therefore in the sequence at, position 6, instead of obtaining a glutamic acid, there is a valine (E6V) which changes some properties of the residues that will affect the overall function of such protein.
+The aim of our research is to understand the mutation in the beta-globin at chromosome 11 when two HbS alleles, one from each parent, passes it on to their progeny. Studies show that when this scenario occurs, the coding of the amino acid is affected, therefore in the sequence at, position 6, instead of obtaining a glutamic acid, there is a valine (E6V) which changes some properties of the residues that will affect the overall function of such protein.
 
 
 ## Results
@@ -30,11 +29,11 @@ The analysis of data sources containing nucleotide and protein sequences allowed
 ### Structure and Sequence Analysis of protein
 
 The primary structure of both subunits have 147 amino acids and the main annotation in the sequence is E6V. While glutamic acid is negatively charged or acidic, hydrophilic and medium size, valine doesn’t have any charge, is hydrophobic and is a non-polar aliphatic medium size amino acid.
-In regards to their angles and tortions, both subunits maintain identical main chain torsion angles across the subunit folds, position 6 maintains its -helical backbone conformation, near the N-terminus of helix A, which is where the mutation can be found.
+In regards to their angles and tortions, both subunits maintain identical main chain torsion angles across the subunit folds, position 6 maintains its alpha-helical backbone conformation, near the N-terminus of helix A, which is where the mutation can be found.
 
-The secondary structure has 8 right handed -helices from A to H united by short inter-helical loops and no -sheets, therefore their motifs are only -. No difference was observed between both -globins in regards to this structure.  
+The secondary structure has 8 right handed alpha-helices from A to H united by short inter-helical loops and no beta-sheets, therefore their motifs are only alpha-alpha. No difference was observed between both beta-globins in regards to this structure.  
 
-As far as their tertiary and quaternary structures, they have only 1 domain which is globin, it is an all- protein fold. Hemoglobin is a heterotetramer which has 2 subunits  and 2 subunits , which form a hetero-oligomer linked by non-covalent forces. The monomers are united by hydrogen bonds which provide the alignment and structural stability and  also ionic bonds, which are crucial for the correct deoxygenated (T-state) and oxygenated (R-state) of the protein, and here is where the main difference appears. The mutation changes the electrostatic forces disturbing the overall allosteric regulation. Salt bridges are placed in the outer face of the protein while hydrophobic molecules are in the inner side of the molecule to keep the overall balance of the molecule and the environment that surrounds it, but the salt bridges between Lys132 (positive charge) and Glu6 (negative charge) are no longer possible in Hbs because Val6 has no charge and this perturbation drifts Lys132 and Val6 too apart, this makes the interaction impossible and the local peptide chain flexible and loose, weakening the salt bridges. Because Val6 has no interaction with Lys132, it will have an hydrophobic interaction with residues of the pocket ( Phe85 and Leu88). This change leads the tetramers to polymerize into stiff fibers which cause sickle-cell disease.
+As far as their tertiary and quaternary structures, they have only 1 domain which is globin, it is an all-alpha protein fold. Hemoglobin is an heterotetramer which has 2 alpha subunits  and 2 beta subunits, which form an hetero-oligomer linked by non-covalent forces. The monomers are united by hydrogen bonds which provide the alignment and structural stability, and also by ionic bonds, which are crucial for the correct deoxygenated (T-state) and oxygenated (R-state) of the protein, is here where the main difference appears. The mutation changes the electrostatic forces disturbing the overall allosteric regulation. Salt bridges are placed in the outer face of the protein while hydrophobic molecules are in the inner side of the molecule to keep the overall balance of the molecule and the environment that surrounds it, but the salt bridges between Lys132 (positive charge) and Glu6 (negative charge) are no longer possible in Hbs because Val6 has no charge and this perturbation drifts Lys132 and Val6 too apart, this makes the interaction impossible and the local peptide chain flexible and loose, weakening the salt bridges. Because Val6 has no interaction with Lys132, it will have an hydrophobic interaction with residues of the pocket (Phe85 and Leu88). This change leads the tetramers to polymerize into stiff fibers which cause sickle-cell disease.
 
 #### Structural Classification and Comparative Analysis
 
@@ -50,11 +49,11 @@ Using BLAST, we compared the wild type (WT) Coding DNA Sequence (CDS) with the p
 #### Comparison of Wild Type and Mutant CDS and Protein sequences 
 ##### Comparison of Coding DNA Sequences 
 
-The BLAST results comparing the Wild type CDS with the Mutant one showed that the mutant sequence shared a 99.55% of identity with the Wild Type and an E-value of 0.0. After confirming the match, we compared the Wild type (WT) CDS, with the Muatnt CDS. We assured that the Mutant CDS corresponded to the same gene as the Wild type CDS, sharing both the same locus and gene name. However, differences were observed in their sequence alignment results;
+The BLAST results comparing the Wild type CDS with the Mutant one showed that the mutant sequence shared a 99.55% of identity with the Wild Type and an E-value of 0.0. After confirming the match, we compared the Wild type (WT) CDS, with the Muatnt CDS. We assured that the Mutant CDS corresponded to the same gene as the Wild type CDS, sharing both the same locus and gene name. However, differences were observed in their sequence alignment results.
 
 #### Comparison of protein sequences
 
-The BLAST results of this search showed that the Mutant protein sequence shared a 99.32% of identity with the Wild Type one. Comparing the Wild type protein sequence with the Mutant protein sequence. We assured that both sequences were coded from the same gene, HBB, and had the same locus. Nevertheless, their sequence alignment results showed some differences; 
+The BLAST results of this search showed that the Mutant protein sequence shared a 99.32% of identity with the Wild Type one. Comparing the Wild type protein sequence with the Mutant protein sequence. We assured that both sequences were coded from the same gene, HBB, and had the same locus. Nevertheless, their sequence alignment results showed some differences. 
 
 
 #### Comparison of Wild type sequence with homologs sequences
@@ -74,7 +73,7 @@ Non insertions or deletions were identified in the nucleotide sequence alignment
 
 The alignment revealed an aminoacid substitution at p.Glu6Val, having the Glutamic acid (Glu) replaced by Valine (Val). The Glutamic acid is polar, charged, and hydrophilic, while Valine is nonpolar, neutral, and hydrophobic. This mutation changes the chemical properties of the protein, making the affected area more hydrophobic.
 The substitution of aminoacid can change the interactions that makes at this position, because Glutamic acid (Glu) is charged and hydrophilic, while Valine (Val) is neutral and hydrophobic. As a result, the mutation reduces the ability of the protein to form electrostatic interactions and favors hydrophobic interactions with other Hemoglobin molecules. Accordingly, Valine supports hydrophobic interactions with other Hemoglobin molecules instead of interactions with water, this causes Hemoglobin S (HbS) molecules to stick together and form rigid insoluble polymers. 
-The mutation affects the protein folding and function, because the substitution of Glutamic acid by Valine, the chemical properties of the protein's surface change. Valine promotes interaction between Hemoglobin S (HbS) molecules because of its hydrophobic properties. As a result, the Hemoglobin molecules stick together and form rigid fibers, affecting the shape red blood cells, making them go from their biconcave disk shape to sickle shape with poited ends, and also affecting their normal function of carrying and delivering oxygen.
+The mutation affects the protein folding and function, because the substitution of Glutamic acid by Valine, the chemical properties of the protein's surface change. Valine promotes interaction between Hemoglobin S (HbS) molecules because of its hydrophobic properties. As a result, the Hemoglobin molecules stick together and form rigid fibers, affecting the shape red blood cells, making them go from their biconcave disk shape to sickle shape with pointed ends, and also affecting their normal function of carrying and delivering oxygen.
 
 
 #### Wild Type (WT) with homologs
@@ -202,7 +201,7 @@ We also compared the nucleotide and amino acid variations to determine whether c
 
 ### Protein analysis 
 
-Amino acid sequence data for human beta-globin (HBB) was retrieved from the UPC Fasta File (Accession: P68871). Three-dimensional atomic coordinates for wild-type human deoxyhemoglobin (HbA) and mutant sickle cell hemoglobin (HbS) were obtained from the RCSB Protein Data Bank ID: 2hhb for and ID: 2hbs, respectively. Sequence and Structural Analysis Primary sequence alignments and mutation mapping (Glu6Val), taking into account that the numbering begins after the first amino acid of the sequence which is methionine, were performed to compare sidechain physico-chemical property transitions, for this purpose UniProtKB ID: P68871 was used for -globin subunit. Backbone torsion angles (Φ, Ψ, ω) and Ramachandran plot distributions were evaluated to assess secondary structure stability across individual subunits (Harrington et al.,1997). Structural superimposition and surface accessibility analyses were conducted using molecular 3D visualization software PyMOL, based on  crystallographic information obtained from PDB’s asymmetric unit,an x-ray diffraction crystal of 1.74 Å high resolution, to analyze non-covalent interactions and hydrophobic surface exposure at position 6, obtaining an RMSD of 0.266 Å as shown in figure #.
+Amino acid sequence data for human beta-globin (HBB) was retrieved from the UPC Fasta File (Accession: P68871). Three-dimensional atomic coordinates for wild-type human deoxyhemoglobin (HbA) and mutant sickle cell hemoglobin (HbS) were obtained from the RCSB Protein Data Bank ID: 2hhb for and ID: 2hbs, respectively. Sequence and Structural Analysis Primary sequence alignments and mutation mapping (Glu6Val), taking into account that the numbering begins after the first amino acid of the sequence which is methionine, were performed to compare sidechain physico-chemical property transitions, for this purpose UniProtKB ID: P68871 was used for -globin subunit. Backbone torsion angles (Φ, Ψ, ω) and Ramachandran plot distributions were evaluated to assess secondary structure stability across individual subunits (Harrington et al.,1997). Structural superimposition and surface accessibility analyses were conducted using molecular 3D visualization software PyMOL, based on  crystallographic information obtained from PDB’s asymmetric unit, an x-ray diffraction crystal of 1.74 Å high resolution, to analyze non-covalent interactions and hydrophobic surface exposure at position 6, obtaining an RMSD of 0.266 Å as shown in figure 2.
 
 ## Abbreviations
 * **SCA:** Sickle Cell Anemia
@@ -239,6 +238,7 @@ Amino acid sequence data for human beta-globin (HBB) was retrieved from the UPC 
 
 ## IN-TEXT CITATIONS
 
-In-text citation: (Harrington et al. 1997)
+In-text citation: (Harrington et al. 1997), (Bishop & Ferrone, 2023; Harrington et al., 1997).
+
 
 
