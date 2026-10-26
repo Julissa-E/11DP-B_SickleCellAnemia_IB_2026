@@ -72,7 +72,20 @@ This document contains the scientific articles and other sources used in our pro
 * **Format:** PDF
 * **Source Links:**
   * [DOI Journal Link](https://doi.org/10.1111/ejh.70239)
-  * [PubMed Link](https://pubmed.ncbi.nlm.nih.gov/42297565/)
+  * [PubMed Link](https://pubmed.ncbi.nlm.nih.gov/42297565/) 
+
+ ### Article 6
+
+* **Review Title:** Biophysical chemistry behind sickle cell anemia and the mechanism of voxelotor action
+* **Author(s):** Mohd Suhail
+* **Journal:** Scientific Reports
+* **Publication Year:** 2024 January 22
+* **Source:** PubMed
+* **Identifier:** PMID: 38253605
+* **Source Links:**
+  * [DOI Journal Link](10.1038/s41598-024-52476-8)
+  * [PubMed Link](https://pmc.ncbi.nlm.nih.gov/articles/PMC10803371/)
+    
  
 
 ## 2. Other Sources
